@@ -46,15 +46,15 @@ const Formulaire = () => {
 
 
         <form ref={form} onSubmit={sendEmail}>
-            <div class="form_element">
+            <div className="form_element">
                 <label>Name *</label>
                 <input type="text" name="user_name" value={formData.user_name} onChange={handleInputChange} placeholder='Enter your Name' required/>
             </div>
-            <div class="form_element">
+            <div className="form_element">
                 <label>E-mail*</label>
                 <input type="email" name="user_email" value={formData.user_email} onChange={handleInputChange} placeholder='Enter your Mail' required/>
             </div>
-            <div class="form_element">
+            <div className="form_element">
                 <label>Status </label>
                 <select name="category" value={formData.category} onChange={handleInputChange} required>
                     <option value="Status">-- Choose your status --</option>
@@ -65,15 +65,15 @@ const Formulaire = () => {
                     <option value="Other">Other</option>
                 </select>
             </div>
-            <div class="form_element">
+            <div className="form_element">
                 <label>Object *</label>
                 <input type="text" name="object" value={formData.object} onChange={handleInputChange} placeholder='Enter your Object' required/>
             </div>
-            <div class="form_element">
+            <div className="form_element">
                 <label>Message *</label>
                 <textarea name="message" value={formData.message} onChange={handleInputChange} required/>
             </div>
-            <div class="btn_form">
+            <div className="btn_form">
                 <input type="submit" value="Send" />
             </div>
         </form>

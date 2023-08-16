@@ -8,75 +8,75 @@ const Home = () => {
     return (
         <div>
                 <section>
-                    <div class="banniere">
+                    <div className="banniere">
                         <img src={bannierevc} alt="" />
-                        <img src={bannierevclogo} alt="" class="bannierelogo" />
+                        <img src={bannierevclogo} alt="" className="bannierelogo" />
                     </div>
                 </section>
 
                 <article>
-                    <div class="promo">
+                    <div className="promo">
                         <img src={pochettevc} alt="" />
-                        <div class="promotext">
+                        <div className="promotext">
                             <h3>New Album</h3>
                             <h2>VALEUR CHAIR</h2>
                             <p>Coming out September 10, 2023</p>
-                            <div class="promovideo">
+                            <div className="promovideo">
                                 <iframe src="https://www.youtube.com/embed/6UkNzZkqG7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             </div>
-                            <a href="https://deadfuck.bandcamp.com/album/valeur-chair" target="_blank" class="preorder"> Pre-order Now</a>
+                            <a href="https://deadfuck.bandcamp.com/album/valeur-chair" target="_blank" className="preorder"> Pre-order Now</a>
                         </div>
                     </div>
                 </article>
 
                 <article>
-                    <div class="articlemerch">
+                    <div className="articlemerch">
                         <img src={promovc} alt="" />
-                        <div class="merchtext">
+                        <div className="merchtext">
                             <hr />
                             <h3>New merch</h3>
                             <h2>Upcoming soon !</h2>
                             <hr />
                         </div>
-                        <a href="https://deadfuck.bandcamp.com/merch" class="preorder"  target="_blank"> Merch</a>
+                        <a href="https://deadfuck.bandcamp.com/merch" className="preorder"  target="_blank"> Merch</a>
                     </div>
                 </article>
 
                 <article>
-                    <div class="tour">
+                    <div className="tour">
                         <h2>Next Show</h2>
 
-                        <section class="tourdate">
-                            <div class="localdate">
+                        <section className="tourdate">
+                            <div className="localdate">
                                 <h4>Tue, SEPT 12, 2023</h4>
                                 <h5>Le Farmer, Lyon, France</h5>
                                 <h4>With : 3rd War Collapse (Brasil)</h4>
                             </div>
-                            <div class="eventdate">
+                            <div className="eventdate">
                                 <h4>FREE ENTRANCE</h4>
                                 <a href="https://www.facebook.com/events/9675963842473774/?ref=newsfeed" target="_blank">EVENT</a>
                             </div>
                         </section>
 
-                        <section class="tourdate">
-                            <div class="localdate">
+                        <section className="tourdate">
+                            <div className="localdate">
                                 <h4>-----</h4>
                                 <h5>-----</h5>
                                 <h4>-----</h4>
                             </div>
-                            <div class="eventdate">
+                            <div className="eventdate">
                                 <h4>-----</h4>
                                 <a href="#">----</a>
                             </div>
                         </section>
 
-                        <section class="tourdate">
-                            <div class="localdate">
+                        <section className="tourdate">
+                            <div className="localdate">
                                 <h4>-----</h4>
                                 <h5>-----</h5>
                                 <h4>-----</h4>
                             </div>
-                            <div class="eventdate">
+                            <div className="eventdate">
                                 <h4>-----</h4>
                                 <a href="#">----</a>
                             </div>

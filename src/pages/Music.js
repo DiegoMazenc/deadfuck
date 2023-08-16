@@ -15,8 +15,8 @@ const Music = () => {
     return (
         <div>
             <section>
-                <div class="margintop"></div>
-                <div class="banniere2">
+                <div className="margintop"></div>
+                <div className="banniere2">
                     <img src={logotrans} alt="" />
                 </div>
             </section>
@@ -24,14 +24,14 @@ const Music = () => {
 
             
         <article>
-        <div class="article1">
-            <div class="article1top">
+        <div className="article1">
+            <div className="article1top">
                 <img src={pochettevc} alt="" />
-                <div class="article1toptext">
+                <div className="article1toptext">
                     <h3>VALEUR CHAIR</h3>
                     <p>Album | Released September 10th 2023</p>
                     <hr />
-                    <div class="article1liens">
+                    <div className="article1liens">
                         <a href="https://deadfuck.bandcamp.com/album/valeur-chair" target="_blank"><img src={bandcamprond} alt="" /></a>
                         <a href="https://www.youtube.com/watch?v=6UkNzZkqG7Y&list=PLej_KM65LLo673y9axpFwh5A-8GXhpYeY&ab_channel=DeadfuckOfficiel" target="_blank"><img src={youtuberond} alt="" /></a>
                         <a href="https://open.spotify.com/intl-fr/album/3k0s2U673R6SlhwhaTkako" target="_blank"><img src={spotifyrond} alt="" /></a>
@@ -42,11 +42,11 @@ const Music = () => {
                     </div>
                 </div>
             </div>
-            <div class="article1bottom">
-                <div class="lienclip">
+            <div className="article1bottom">
+                <div className="lienclip">
                     <iframe width="560" height="352" src="https://www.youtube.com/embed/6UkNzZkqG7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
-                <div class="lienspotify">
+                <div className="lienspotify">
                 <iframe  src="https://open.spotify.com/embed/album/3k0s2U673R6SlhwhaTkako?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                 </div>
             </div>
@@ -54,13 +54,13 @@ const Music = () => {
     </article> 
 
             <article>
-                <div class="article1">
-                    <div class="article1top article2top">
-                        <div class="article1toptext">
+                <div className="article1">
+                    <div className="article1top article2top">
+                        <div className="article1toptext">
                             <h3>CHARLATAN</h3>
                             <p>EP | Released May 25th 2022</p>
                             <hr />
-                            <div class="article1liens">
+                            <div className="article1liens">
                                 <a href="https://deadfuck.bandcamp.com/album/charlatan" target="_blank"><img src={bandcamprond} alt="" /></a>
                                 <a href="https://www.youtube.com/watch?v=Qy185RsYqGg&list=PLej_KM65LLo6L1NR-cCQQnqj8FXjIb8cf&ab_channel=DeadfuckOfficiel" target="_blank"><img src={youtuberond} alt="" /></a>
                                 <a href="https://open.spotify.com/intl-fr/album/46NkkCrhmiQQjKicMGm8aL" target="_blank"><img src={spotifyrond} alt="" /></a>
@@ -72,25 +72,25 @@ const Music = () => {
                         </div>
                         <img src={pochettecharlatan} alt="" />
                     </div>
-                    <div class="article1bottom article2top">
-                        <div class="lienspotify">
+                    <div className="article1bottom article2top">
+                        <div className="lienspotify">
                             <iframe src="https://open.spotify.com/embed/album/46NkkCrhmiQQjKicMGm8aL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                         </div>
-                        <div class="lienclip">
+                        <div className="lienclip">
                             <iframe width="560" height="352" src="https://www.youtube.com/embed/Qy185RsYqGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
             </article>
             <article>
-                <div class="article1">
-                    <div class="article1top">
+                <div className="article1">
+                    <div className="article1top">
                         <img src={pochettehumanite} alt="" />
-                        <div class="article1toptext">
+                        <div className="article1toptext">
                             <h3>#HUMANITÉ</h3>
                             <p>Album | Released March 8th 2020</p>
                             <hr />
-                            <div class="article1liens">
+                            <div className="article1liens">
                                 <a href="https://deadfuck.bandcamp.com/album/humanit" target="_blank"><img src={bandcamprond} alt="" /></a>
                                 <a href="https://www.youtube.com/watch?v=q7r5egutt1Y&list=PLej_KM65LLo5CT_1u2duTrIGG7pBoVJNz&ab_channel=DeadfuckOfficiel" target="_blank"><img src={youtuberond} alt="" /></a>
                                 <a href="https://open.spotify.com/intl-fr/album/4zwfPO3Qh921zQd9b8k0Z6" target="_blank"><img src={spotifyrond} alt="" /></a>
@@ -101,11 +101,11 @@ const Music = () => {
                             </div>
                         </div>
                     </div>
-                    <div class="article1bottom">
-                        <div class="lienclip">
+                    <div className="article1bottom">
+                        <div className="lienclip">
                             <iframe width="560" height="352" src="https://www.youtube.com/embed/zKLWpMpcLiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
-                        <div class="lienspotify">
+                        <div className="lienspotify">
 
                             <iframe src="https://open.spotify.com/embed/album/4zwfPO3Qh921zQd9b8k0Z6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                         </div>
@@ -113,13 +113,13 @@ const Music = () => {
                 </div>
             </article>
             <article>
-                <div class="article1">
-                    <div class="article1top article2top">
-                        <div class="article1toptext">
+                <div className="article1">
+                    <div className="article1top article2top">
+                        <div className="article1toptext">
                             <h3>AFFLICTION</h3>
                             <p>EP | Released September 18th 2018</p>
                             <hr />
-                            <div class="article1liens">
+                            <div className="article1liens">
                                 <a href="https://deadfuck.bandcamp.com/album/affliction" target="_blank"><img src={bandcamprond} alt="" /></a>
                                 <a href="https://www.youtube.com/watch?v=6TNmG-5aqQM&ab_channel=DeadfuckOfficiel" target="_blank"><img src={youtuberond} alt="" /></a>
                                 <a href="https://open.spotify.com/intl-fr/album/5SqgoFOidPZPWRPFXJ0Z7l" target="_blank"><img src={spotifyrond} alt="" /></a>
@@ -131,11 +131,11 @@ const Music = () => {
                         </div>
                         <img src={pochetteaffliction} alt="" />
                     </div>
-                    <div class="article1bottom article2top">
-                        <div class="lienspotify">
+                    <div className="article1bottom article2top">
+                        <div className="lienspotify">
                             <iframe src="https://open.spotify.com/embed/album/5SqgoFOidPZPWRPFXJ0Z7l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                         </div>
-                        <div class="lienclip">
+                        <div className="lienclip">
                             <iframe width="560" height="352" src="https://www.youtube.com/embed/hXm2CMnKUM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                     </div>

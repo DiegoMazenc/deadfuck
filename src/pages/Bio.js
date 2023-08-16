@@ -39,21 +39,21 @@ const Bio = () => {
     return (
     <div>
         <section>
-            <div class="margintop"></div>
-            <div class="banniere3">
+            <div className="margintop"></div>
+            <div className="banniere3">
                 <img src={logotrans} alt="" />
 
             </div>
-            <div class="divbtn">
-                <a href={TechSheet} target="_blank" class="techlink">SEE OUR TECHNICAL
+            <div className="divbtn">
+                <a href={TechSheet} target="_blank" className="techlink">SEE OUR TECHNICAL
                     SHEET</a>
             </div>
         </section>
 
         <section>
             <h2>BIOGRAPHY</h2>
-            <div class="bio">
-                <p>Formé en 2017 à Lyon, Deadfuck est un trio de Death/Grind: <span class="motimportant">Chris</span> (guitare),<span class="motimportant"> Diégo</span> (chant) et <span class="motimportant">Antoine</span> (batterie).
+            <div className="bio">
+                <p>Formé en 2017 à Lyon, Deadfuck est un trio de Death/Grind: <span className="motimportant">Chris</span> (guitare),<span className="motimportant"> Diégo</span> (chant) et <span className="motimportant">Antoine</span> (batterie).
                 </p><br />
                 <p> Notre nom a été choisi pour attirer l’attention, offenser; nulle envie d’être “des bourrins qui
                     parlent de gore”. Au contraire, au même titre qu’un Dying Fetus, nous avons choisi ce nom car il
@@ -61,9 +61,9 @@ const Bio = () => {
                     de thèmes sérieux: la pédophilie (“Innocence”), l’exutoire au travers de la musique
                     (“Catharsis”), le racisme (“Chroma”)... avec un sens presque “poétique” dans la formulation des
                     termes.</p><br />
-                <p>Nous avons sorti notre 1er EP “<span class="motimportant">Affliction</span>” en Septembre 2018 , suivi du premier album,
-                    “<span class="motimportant">#Humanité</span>” en Mars 2020, et d’un nouvel EP « <span class="motimportant">Charlatan </span>» en 2022. Le
-                    second album “<span class="motimportant">Valeur Chair</span>” est en préparation pour une sortie 2023. Nos principes de
+                <p>Nous avons sorti notre 1er EP “<span className="motimportant">Affliction</span>” en Septembre 2018 , suivi du premier album,
+                    “<span className="motimportant">#Humanité</span>” en Mars 2020, et d’un nouvel EP « <span className="motimportant">Charlatan </span>» en 2022. Le
+                    second album “<span className="motimportant">Valeur Chair</span>” est en préparation pour une sortie 2023. Nos principes de
                     base en matière de composition sont: du blast, du gruik, et l’envie de surprendre l’auditeur en
                     cassant le plus souvent possible nos structures de chansons.</p><br />
                 <p>Nous sommes un groupe de live avant tout, et adorons nous produire sur scène. Plus d’une vingtaine de
@@ -72,57 +72,57 @@ const Bio = () => {
             </div>
         </section>
         <section>
-            <div class="disco">
+            <div className="disco">
                 <h2>DISCOGRAPHY</h2>
-                <div class="discocards">
-                    <div class="disco1">
+                <div className="discocards">
+                    <div className="disco1">
                         <img src={pochetteaffliction} alt="" />
-                        <h4>Afficltion | <span class="motimportant">EP, Demo</span></h4>
-                        <p><span class="motimportant">Année </span>: 2018</p>
-                        <p><span class="motimportant">Tracks</span> : 5</p>
-                        <p><span class="motimportant">Production</span> : Auto-production</p>
+                        <h4>Afficltion | <span className="motimportant">EP, Demo</span></h4>
+                        <p><span className="motimportant">Année </span>: 2018</p>
+                        <p><span className="motimportant">Tracks</span> : 5</p>
+                        <p><span className="motimportant">Production</span> : Auto-production</p>
                     </div>
-                    <div class="disco1">
+                    <div className="disco1">
                         <img src={pochettehumanite} alt="" />
-                        <h4>#Humanité | <span class="motimportant">Album </span></h4>
-                        <p><span class="motimportant">Année </span>: 2020</p>
-                        <p><span class="motimportant">Tracks</span> : 12</p>
-                        <p><span class="motimportant">Production </span>: Auto-production <br /> Convulsound Production <br /> Noise Maker Studio
+                        <h4>#Humanité | <span className="motimportant">Album </span></h4>
+                        <p><span className="motimportant">Année </span>: 2020</p>
+                        <p><span className="motimportant">Tracks</span> : 12</p>
+                        <p><span className="motimportant">Production </span>: Auto-production <br /> Convulsound Production <br /> Noise Maker Studio
                         </p>
                     </div>
-                    <div class="disco1">
+                    <div className="disco1">
                         <img src={pochettecharlatan} alt="" />
-                        <h4>Charlaton | <span class="motimportant">EP </span></h4>
-                        <p><span class="motimportant">Année </span>: 2022</p>
-                        <p><span class="motimportant">Tracks</span> : 5</p>
-                        <p><span class="motimportant">Production</span> : Auto-production</p>
+                        <h4>Charlaton | <span className="motimportant">EP </span></h4>
+                        <p><span className="motimportant">Année </span>: 2022</p>
+                        <p><span className="motimportant">Tracks</span> : 5</p>
+                        <p><span className="motimportant">Production</span> : Auto-production</p>
                     </div>
-                    <div class="disco1">
+                    <div className="disco1">
                         <img src={pochettevc} alt="" />
-                        <h4>Valeur Chair |<span class="motimportant"> Album</span> </h4>
-                        <p><span class="motimportant">Année </span>: 2023</p>
-                        <p><span class="motimportant">Tracks</span> : 12</p>
-                        <p><span class="motimportant">Production </span>: Auto-production <br /> Convulsound Production</p>
-                        <p><span class="motimportant">Distribution </span>: France, Black, Death, Grind</p>
+                        <h4>Valeur Chair |<span className="motimportant"> Album</span> </h4>
+                        <p><span className="motimportant">Année </span>: 2023</p>
+                        <p><span className="motimportant">Tracks</span> : 12</p>
+                        <p><span className="motimportant">Production </span>: Auto-production <br /> Convulsound Production</p>
+                        <p><span className="motimportant">Distribution </span>: France, Black, Death, Grind</p>
                     </div>
                 </div>
             </div>
         </section>
         <section>
-            <div class="live">
+            <div className="live">
                 <h2>LIVES</h2>
-                <div class="livehistory">
-                    <div class="liveyear">                      
+                <div className="livehistory">
+                    <div className="liveyear">                      
                         <img src={Live19_05_2023} alt="" />
-                        <div class="live2">
+                        <div className="live2">
                             <img src={live17_05_2023} alt="" />
                             <img src={live18_05_2023} alt="" />
                         </div>
-                        <div class="live2">
+                        <div className="live2">
                             <img src={live16_09_2022} alt="" />
                             <img src={live16_02_2023} alt="" />
                         </div>
-                        <div class="live2">
+                        <div className="live2">
                             <img src={live18_06_2022} alt="" />
                             <img src={live12_07_2022} alt="" />
                         </div>
@@ -131,7 +131,7 @@ const Bio = () => {
                         <img src={live10_07_2021} alt="" />
                         <img src={live26_09_2020} alt="" />
                         <img src={live25_10_2019} alt="" />
-                        <div class="live2">
+                        <div className="live2">
                             <img src={live15_06_2019} alt="" />
                             <img src={Live16_10_2019} alt="" />
                         </div>
@@ -143,7 +143,7 @@ const Bio = () => {
                         <img src={live22_05_2018} alt="" />
                         <img src={live04_05_2018} alt="" />
                         <img src={live02_04_2018} alt="" />
-                        <div class="live2">
+                        <div className="live2">
                             <img src={live15_03_2018} alt="" />
                             <img src={live27_04_2018} alt="" />
                         </div>

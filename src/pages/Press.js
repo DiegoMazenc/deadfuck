@@ -16,12 +16,12 @@ import { Tabs } from '@mantine/core';
 function Press() {
     return (
         <div>
-            <div class="margintop"></div>
+            <div className="margintop"></div>
             <h2>CHRONIQUES</h2>
-            <div class="chronique">
+            <div className="chronique">
 
                 <Tabs color="yellow" variant="outline" radius="md" defaultValue="valeurchair">
-                    <div class="chronique_nav">
+                    <div className="chronique_nav">
                         <Tabs.List>
                             <Tabs.Tab value="valeurchair" ><img src={pochettevc} alt="" /></Tabs.Tab>
                             <Tabs.Tab value="charlatan" ><img src={pochettecharlatan} alt="" /></Tabs.Tab>
@@ -39,7 +39,7 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="Wallabirzine" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Wallabirzine</p>
                                     <p>Auteur : --</p>
                                     <p>Note : --</p>
@@ -57,7 +57,7 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="grindnnoizy" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Grind N Noizy 11</p>
                                     <p>Auteur : Yoann</p>
                                     <p>Note : --</p>
@@ -79,7 +79,7 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="autremonde" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>L’autre Monde</p>
                                     <p>Auteur : Xavier</p>
                                     <p>Note : --</p>
@@ -91,7 +91,7 @@ function Press() {
                             </Tabs.Panel>
 
                             <Tabs.Panel value="hordenoire" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>La Horde Noire</p>
                                     <p>Auteur : Mika Hell</p>
                                     <p>Note : 8.5/10</p>
@@ -105,7 +105,7 @@ function Press() {
                             </Tabs.Panel>
 
                             <Tabs.Panel value="Anteverse" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Anteverse</p>
                                     <p>Auteur : Antephil</p>
                                     <p>Note : 4/5</p>
@@ -173,7 +173,7 @@ function Press() {
                             </Tabs.Panel>
 
                             <Tabs.Panel value="grindnnoizy" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Grind N Noizy 3</p>
                                     <p>Auteur : YO</p>
                                     <p>Note : --</p>
@@ -201,7 +201,7 @@ function Press() {
                             </Tabs.Panel>
 
                             <Tabs.Panel value="thrashocore" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Thrashocore</p>
                                     <p>Auteur : Sagamore</p>
                                     <p>Note : 7,5/10</p>
@@ -313,7 +313,7 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="frenchmetal" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>French Metal</p>
                                     <p>Auteur : Kévin</p>
                                     <p>Note : --</p>
@@ -372,14 +372,14 @@ function Press() {
                 </Tabs>
             </div>
             <h2>LIVE REPORTS</h2>
-            <div class="chronique">
+            <div className="chronique">
 
                 <Tabs color="yellow" variant="outline" radius="md" defaultValue="18/09/2018">
-                    <div class="chronique_nav">
+                    <div className="chronique_nav">
                         <Tabs.List>
-                            <Tabs.Tab value="18/09/2018" ><div class="dateLR">18/09/2018</div></Tabs.Tab>
-                            <Tabs.Tab value="10/07/2021" ><div class="dateLR">10/07/2021</div></Tabs.Tab>
-                            <Tabs.Tab value="16/09/2022" ><div class="dateLR">16/09/2022</div></Tabs.Tab>
+                            <Tabs.Tab value="18/09/2018" ><div className="dateLR">18/09/2018</div></Tabs.Tab>
+                            <Tabs.Tab value="10/07/2021" ><div className="dateLR">10/07/2021</div></Tabs.Tab>
+                            <Tabs.Tab value="16/09/2022" ><div className="dateLR">16/09/2022</div></Tabs.Tab>
 
                         </Tabs.List>
                     </div>
@@ -393,14 +393,14 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="Pavillon 666" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Pavillon 666</p>
                                     <p>Auteur : Black.Roger</p>
                                 </div>
-                                <div class="articleLR">
-                                    <div class="imgLR"><img src={live18_09_2018} alt="" /></div>
-                                    <div class="textLR">
-                                        <h3 class="titreLR">CARDIAC ARREST + DEADFUCK + PULSATING CEREBRAL SLIME <br />
+                                <div className="articleLR">
+                                    <div className="imgLR"><img src={live18_09_2018} alt="" /></div>
+                                    <div className="textLR">
+                                        <h3 className="titreLR">CARDIAC ARREST + DEADFUCK + PULSATING CEREBRAL SLIME <br />
                                             LE 18 SEPTEMBRE 2018 À LYON, FRANCE (ROCK N’EAT)</h3>
 
                                         <hr />
@@ -426,14 +426,14 @@ function Press() {
                             </Tabs.Panel>
 
                             <Tabs.Panel value="Thrashocore" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Thrashocore</p>
                                     <p>Auteur : ERZEWYN</p>
                                 </div>
-                                <div class="articleLR">
-                                    <div class="imgLR"><img src={live18_09_2018} alt="" /></div>
-                                    <div class="textLR">
-                                        <h3 class="titreLR">CARDIAC ARREST + DEADFUCK + PULSATING CEREBRAL SLIME <br />
+                                <div className="articleLR">
+                                    <div className="imgLR"><img src={live18_09_2018} alt="" /></div>
+                                    <div className="textLR">
+                                        <h3 className="titreLR">CARDIAC ARREST + DEADFUCK + PULSATING CEREBRAL SLIME <br />
                                             LE 18 SEPTEMBRE 2018 À LYON, FRANCE (ROCK N’EAT)</h3>
                                         <hr />
                                         DEADFUCK est un sympathique trio lyonnais qui
@@ -498,14 +498,14 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="Pavillon 666" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Pavillon 666</p>
                                     <p>Auteur : Black.Roger</p>
                                 </div>
-                                <div class="articleLR">
-                                    <div class="imgLR"><img src={live10_07_2021} alt="" /></div>
-                                    <div class="textLR">
-                                        <h3 class="titreLR">PECHE CAPITAL DAY #10 <br />
+                                <div className="articleLR">
+                                    <div className="imgLR"><img src={live10_07_2021} alt="" /></div>
+                                    <div className="textLR">
+                                        <h3 className="titreLR">PECHE CAPITAL DAY #10 <br />
                                             10/07/2021 À TREPT, FRANCE</h3>
                                         <hr />
                                         DEADFUCK c’est trois gars qui viennent ce soir
@@ -540,14 +540,14 @@ function Press() {
                             </Tabs.List>
 
                             <Tabs.Panel value="Pavillon 666" pl="xs">
-                                <div class="titrechro">
+                                <div className="titrechro">
                                     <p>Pavillon 666</p>
                                     <p>Auteur : Black.Roger</p>
                                 </div>
-                                <div class="articleLR">
-                                    <div class="imgLR"><img src={live16_09_2022} alt="" /></div>
-                                    <div class="textLR">
-                                        <h3 class="titreLR">SHARKED + FESTERING PROCESS +
+                                <div className="articleLR">
+                                    <div className="imgLR"><img src={live16_09_2022} alt="" /></div>
+                                    <div className="textLR">
+                                        <h3 className="titreLR">SHARKED + FESTERING PROCESS +
                                             DEADFUCK + WARDOGS <br />
                                             16/09/2022 À LYON, FRANCE
                                             (ROCK N’EAT)</h3>
@@ -569,26 +569,26 @@ function Press() {
                 </Tabs>
             </div>
             <h2>INTERVIEWS</h2>
-            <div class="interview">
-                <div class="cardinterview">
+            <div className="interview">
+                <div className="cardinterview">
                     <img src={lhn} alt="" />
-                    <p><span class="titreitv1">Interview de </span><br /><span class="titreitv2">La Horde Noire</span></p>
+                    <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">La Horde Noire</span></p>
                     <p>29/11/2020</p>
-                    <a href="http://www.lahordenoire-metal.com/interview/deadfuck/deadfuck.html" target="_blank" class="btn_interview">Voir l'interview</a>
+                    <a href="http://www.lahordenoire-metal.com/interview/deadfuck/deadfuck.html" target="_blank" className="btn_interview">Voir l'interview</a>
                     
                 </div>
-                <div class="cardinterview">
-                    <img src={fbdg} alt="" class="img_fbdg"/>
-                    <p><span class="titreitv1">Interview de </span><br /><span class="titreitv2">France, Black, Death, Grind</span></p>
+                <div className="cardinterview">
+                    <img src={fbdg} alt="" className="img_fbdg"/>
+                    <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">France, Black, Death, Grind</span></p>
                     <p>23/12/2020</p>
-                    <a href="https://drive.google.com/file/d/1EJOqtgoRhpVkvnVQoIGVUIsidRjIvZr_/view" target="_blank" class="btn_interview">Voir l'interview</a>
+                    <a href="https://drive.google.com/file/d/1EJOqtgoRhpVkvnVQoIGVUIsidRjIvZr_/view" target="_blank" className="btn_interview">Voir l'interview</a>
                 </div>
                 
-                <div class="cardinterview">
+                <div className="cardinterview">
                     <img src={gnn} alt="" />
-                    <p><span class="titreitv1">Interview de </span><br /><span class="titreitv2">Grind'N'Noizy</span></p>
+                    <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">Grind'N'Noizy</span></p>
                     <p>02/2023</p>
-                    <a href="http://normandieinvasion.free.fr/images/PDF_GrindNNoizy/GrindNNoizy11.pdf" target="_blank" class="btn_interview">Voir l'interview</a>
+                    <a href="http://normandieinvasion.free.fr/images/PDF_GrindNNoizy/GrindNNoizy11.pdf" target="_blank" className="btn_interview">Voir l'interview</a>
                 </div>
             </div>
 
