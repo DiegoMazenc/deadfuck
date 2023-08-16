@@ -1,0 +1,57 @@
+/*=====NAV=====*/
+
+.barnav {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 50px;
+    justify-content: center;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: space-around;
+
+}
+
+.nav {
+    width: 90%;
+    padding: 0 5%;
+
+}
+
+.nav li {
+    padding: 15px 30px;
+   
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    transition: linear-gradient 0.3s;
+    font-size: 15px;
+
+}
+
+.nav a:hover{
+    color: rgb(59, 47, 38);
+    background: linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
+}
+
+
+
+@media screen and (max-width:800px) {
+
+    .nav li{
+        padding: 15px 10px;
+    }
+    .nav a{
+        font-size: 12px;
+    }
+    
+}

@@ -1,0 +1,247 @@
+.margintop{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(33, 33, 33);;
+}
+.chronique{
+    margin: 2% 10%;
+    background:linear-gradient(180deg, #58523e 0%, #716d61 100%);
+    padding-top: 20px;
+    border-radius: 15px;
+    border: 1px solid rgb(219, 208, 150);
+    box-shadow: #e9deb8 0px 0px 8px;
+    color: white;
+    transition: 0.3s;
+}
+
+.chronique:hover{
+    box-shadow: #f0e9d2 0px 0px 15px;
+}
+
+
+
+.chronique_nav img{
+    width: 125px;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+}
+
+
+
+.titrechro{
+    display: flex;
+    justify-content: space-between;
+  
+    background:linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.titrechro p{
+      font-size: 15px;
+      color: #4F400D;
+      margin: 0;
+}
+
+
+
+.mantine-4p5av5[data-active]{
+    border-color:rgb(180, 172, 128);
+}
+
+.mantine-4p5av5[data-active]::before{
+    content: none;
+}
+
+.mantine-15dvp04[data-active]{
+    background: linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
+    color: #4F400D;
+    border: #4F400D;
+}
+
+.mantine-15dvp04{
+    font-weight: 600;
+    color: #FCEBAF;
+}
+
+.mantine-1hta5os {
+    padding-top: 0.625rem;
+    background-color: #3a372c;
+    padding: 8px;
+    border-radius:0 0 15px 15px;
+}
+
+.mantine-4p5av5[data-active] {
+    border-color: rgb(180, 172, 128);
+    background-color: #3a372c;
+    position: relative;
+    bottom: -1px;
+}
+
+.mantine-1n9kanl {
+    border-bottom: 0.0625rem solid rgb(180, 172, 128);
+    
+}
+
+.mantine-1o3c8e9{
+    font-size: 13px;
+    padding: 5px 20px;
+    line-height: 20px
+}
+
+.mantine-d50e8r{
+    padding-top: 5px;
+}
+
+.articleLR{
+    display: flex;
+}
+
+.imgLR{
+    width: 40%;
+    padding-right: 15px;
+}
+.imgLR img{
+    width: 100%;
+    height: auto;
+}
+
+.titreLR{
+    line-height: 15px;
+    font-size: 15px;
+    text-align: left;
+    margin: 0 0 15px;
+}
+
+.textLR{
+    width: 60%;
+}
+
+.dateLR{
+    color: white;
+    font-weight: 600;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+.interview{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 15px ;
+}
+
+.cardinterview{
+    width: 300px;
+    padding: 10px;
+    background:linear-gradient(180deg, #58523e 0%, #716d61 100%);
+    border-radius: 15px;
+    border: 1px solid rgb(219, 208, 150);
+    box-shadow: #e9deb8 0px 0px 8px;
+    color: white;
+    margin: 15px;
+    transition: 0.3s;
+    text-align: center;
+
+}
+
+.chronique:hover{
+    box-shadow: #f0e9d2 0px 0px 15px;
+}
+
+.cardinterview:hover{
+    box-shadow: #f0e9d2 0px 0px 15px;
+}
+
+
+.titreitv1{
+    font-weight: 500;
+    color: white;
+}
+
+.titreitv2{
+    font-weight: 600; 
+    color: #CBB878;
+}
+
+
+.cardinterview img{
+    width: 100%;
+    height: 150px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+
+.btn_interview {
+    display: block;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #CBB878;
+    background: linear-gradient(180deg, #4F400D 0%, #342904 100%);
+    color: #FCEBAF;
+    text-align: center;
+    font-family: Koh Santepheap;
+    font-size: 15px;
+    padding: 8px 10px;
+    margin: 15px 70px 10px;
+    transition: 0.3s;
+
+}
+
+ .btn_interview:hover{
+    padding: 10px 12px;
+    margin: 10px 66px 5px;
+    background: linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
+    color: #4F400D;
+    border: #4F400D;
+} 
+
+
+
+
+
+@media screen and (max-width:800px) {
+    .chronique_nav img{
+        width: 50px;
+    }
+
+    .mantine-4p5av5{
+        padding : 10px;
+    } 
+
+    .mantine-1bmysm8{
+        display: block;
+    }
+    
+    .titrechro{
+        display: block;
+        margin-top: 15px;
+    }
+
+    .titrechro p{
+        font-size: 12px;
+        font-weight: 600;
+
+    }
+
+    .mantine-1o3c8e9{
+        font-size: 12px;
+    }
+
+    .articleLR{
+        display: block;
+    }
+
+    .textLR{
+        width: 100%;
+    }
+
+    .imgLR{
+        width: 100%;
+        padding-right: 0px;
+    }
+}

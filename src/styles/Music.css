@@ -1,0 +1,120 @@
+/*=====BANNIERE=====*/
+
+.margintop{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(33, 33, 33);;
+}
+
+.banniere2{
+    background-image: url(../img/banniere-music.png);
+    background-size: cover;
+    background-position:top;
+    width: 100%;
+
+
+}
+
+.banniere2 img{
+    width: 60%;
+    margin: 0 20%;
+}
+
+/*=====ARTICLES=====*/
+.article1{
+    border-radius: 15px;
+    margin: 10% 10%;
+ 
+
+}
+
+.article1toptext{
+    text-align: center;
+    padding-top: 5%;
+    width: 65%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 243, 230);
+   background: linear-gradient(rgb(124, 119, 103),rgb(33, 29, 34));
+}
+
+.article1toptext hr{
+    width: 70%;
+
+}
+
+.article1toptext h3{
+    margin: 0;
+    padding: 30px;
+    font-size: 25px;
+}
+
+.article1toptext p{
+    font-size: 20px;
+}
+
+.lienclip{
+    width: 65%;
+}
+
+.lienclip iframe{
+    width: 100%;
+}
+
+.article1 img, .lienspotify{
+    width: 35%;
+    height: auto;
+}
+
+.article1top, .article1bottom{
+    display: flex;
+}
+
+.article1liens{
+    display: flex;
+    width: 80%;
+    margin:  10%;
+    justify-content: space-around;
+}
+
+.article1liens img{
+width: 100%;
+}
+
+.article1liens a{
+    width: 10%;
+    margin: 0;
+    padding: 0;
+}
+
+.article1liens img:hover{
+    opacity: 0.8;
+    }
+
+
+@media screen and (max-width:800px) {
+
+    .article1top, .article1bottom{
+        display: block;
+    }
+
+    .article1top img, .article1toptext, .lienclip, .lienspotify{
+        width: 100%;
+    }
+
+
+    .lienclip iframe{
+        height: 200px;
+    }
+
+
+    .article2top {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .article1liens{
+        margin-bottom: 0;
+        padding-bottom: 20px;
+    }
+    
+}

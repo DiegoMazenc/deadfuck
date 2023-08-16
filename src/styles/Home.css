@@ -1,0 +1,293 @@
+
+
+
+/*=====BANNIERE=====*/
+
+.banniere {
+    position: relative;
+    padding-top: 50px;
+}
+
+.banniere img {
+
+    width: 100%;
+    height: auto;
+}
+
+.bannierelogo {
+    position: absolute;
+    left: 0;
+}
+
+/*=====PROMO=====*/
+
+.promo {
+    display: flex;
+    width: 80%;
+    margin: 5% 10%;
+}
+
+.promo img {
+    width: 40%;
+    height: auto;
+}
+
+.promotext {
+    position: relative;
+    border-radius: 0 15px 15px 0;
+    background: linear-gradient(180deg, #D7C791 0%, #827138 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    justify-content: center;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.promotext h2,
+.promotext h3,
+.promotext p {
+    margin: 0;
+    color: #2F2B20;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.promotext h3 {
+    padding-top: 2%;
+    color: #2F2B20;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.promotext h2 {
+    font-size: 20px;
+}
+
+.promovideo {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 80%;
+    align-items: center;
+
+}
+
+.promovideo iframe {
+    position: absolute;
+    width: 80%;
+    aspect-ratio: 650/315;
+    transform: translate(-50%, -50%);
+    top: 43%;
+    left: 50%;
+}
+
+
+
+.preorder {
+    position: absolute;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #CBB878;
+    background: linear-gradient(180deg, #4F400D 0%, #342904 100%);
+    color: #FCEBAF;
+    text-align: center;
+    font-family: Koh Santepheap;
+    padding: 5px 7px;
+    left: 50%;
+    bottom: 2%;
+    transform: translate(-50%, 0);
+    transition: 0.3s;
+}
+
+.preorder:hover{
+    padding: 8px 10px;
+    background: linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
+    color: #4F400D;
+    border: #4F400D;
+    bottom: 1.5%;
+}
+
+@media screen and (max-width:800px) {
+    .promo {
+        display: block;
+
+
+    }
+
+    .promo img {
+        width: 80%;
+        height: auto;
+        margin: 0 10%;
+    }
+
+    .promotext {
+        position: none;
+        width: 80%;
+        margin: 0 10%;
+        border-radius: 0 0 15px 15px;
+
+    }
+
+    .promotext h3 {
+        margin-top: 0;
+    }
+
+    .promovideo {
+        position: relative;
+        margin: 1% 0 20px;
+        aspect-ratio: 450/315;
+    }
+
+    .promovideo iframe {
+        position: absolute;
+        width: 80%;
+        aspect-ratio: 550/315;
+        left: 50%;
+        top: 40%;
+    }
+}
+
+/*=====MERCH=====*/
+
+.articlemerch {
+    position: relative;
+    background-image: url(../img/Fond.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.articlemerch img {
+    width: 100%;
+    height: auto;
+}
+
+.merchtext {
+    position: absolute;
+    width: 35%;
+    top: 8%;
+    right: 10%;
+}
+
+.merchtext h2,
+h3 {
+    color: #DDC263;
+    text-align: center;
+    font-family: serif;
+    font-weight: 100;
+    line-height: 10px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.merchtext h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.merchtext hr {
+    border: #DDC263 1px solid;
+}
+
+.articlemerch a {
+    position: absolute;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #CBB878;
+    background: linear-gradient(180deg, #4F400D 0%, #342904 100%);
+    color: #FCEBAF;
+    text-align: center;
+    font-family: serif;
+    padding: 7px 15px;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, 50%);
+}
+
+.articlemerch a:hover{
+    padding: 9px 17px;
+    bottom: 0;
+}
+
+@media screen and (max-width:800px) {
+    .merchtext{
+        width: 40%;
+        top:4%;
+    }
+
+    .merchtext h2 {
+        font-size: 20px;
+        margin: 0px 0 10px;
+    }
+
+    .merchtext h3 {
+        font-size: 15px;
+        margin: 0 0 10px;
+    }
+
+}
+
+/*=====TOUR=====*/
+
+.tour {
+    margin: 10%;
+    padding:2%;
+    border-radius: 17px;
+    background: linear-gradient(180deg, #6C8C9D 0%, #212139 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #F3FCFF;
+}
+
+.tour h2{
+    text-align: center;
+    margin: 5px;
+    font-family: serif;
+}
+
+.tourdate{
+    display: flex;
+    justify-content: space-between;
+    border-top: white 1px solid;
+    border-bottom: white 1px solid;
+    padding: 10px 0;
+}
+
+.tourdate h5{
+    font-weight: 200;
+    margin: 5px 5px 10px;
+
+}
+
+.tourdate h4{
+    font-family: sans-serif;
+    font-weight: 700;
+    margin: 5px;
+
+}
+
+.eventdate{
+    text-align: center;
+}
+
+.eventdate h4{
+    font-size: 12px;
+}
+
+.eventdate a{
+    display: block;
+    text-decoration: none;
+    color: #334246;
+    background-color: #F3FCFF;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+
+}
+
+.eventdate a:hover{
+    background-color: #cfd8db;
+}
