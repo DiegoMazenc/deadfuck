@@ -7,7 +7,7 @@ import Press from "./pages/Press";
 import Bio from "./pages/Bio";
 import Contact from "./pages/Contact";
 
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 
 
