@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/deadfuck/static/css/main.5482e861.css",
-    "main.js": "/deadfuck/static/js/main.3c12b62d.js",
+    "main.css": "/deadfuck/static/css/main.83c3ed75.css",
+    "main.js": "/deadfuck/static/js/main.fc5ac384.js",
     "static/js/787.ae5b6e57.chunk.js": "/deadfuck/static/js/787.ae5b6e57.chunk.js",
-    "static/media/PromoVC.png": "/deadfuck/static/media/PromoVC.00a8ade2a85de3201d50.png",
     "static/media/live06_06_2019.jpg": "/deadfuck/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
-    "static/media/logoFBDG trsprt.png": "/deadfuck/static/media/logoFBDG trsprt.032d5a94e15afff9b604.png",
     "static/media/live13_06_2019.jpg": "/deadfuck/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
     "static/media/Deadfuck-Fiche-Technique.pdf": "/deadfuck/static/media/Deadfuck-Fiche-Technique.cbc7159b0d40ab108acc.pdf",
-    "static/media/Fond.jpg": "/deadfuck/static/media/Fond.09b37f2b76f64ec2622a.jpg",
     "static/media/live26_02_22.jpg": "/deadfuck/static/media/live26_02_22.7a7f7215990f16d08b68.jpg",
     "static/media/Logo_v2_transparent.png": "/deadfuck/static/media/Logo_v2_transparent.a0ce72f7f64c66741ccb.png",
     "static/media/live28_06_2018.jpg": "/deadfuck/static/media/live28_06_2018.d16a4a04e6e936c7c85b.jpg",
     "static/media/live02_04_2018.jpg": "/deadfuck/static/media/live02_04_2018.5010cb920403315df154.jpg",
     "static/media/live16_09_2022.jpg": "/deadfuck/static/media/live16_09_2022.0ecf38bcfd5a46ffdeb1.jpg",
+    "static/media/PromoVC.png": "/deadfuck/static/media/PromoVC.7d13d489ccec6907394e.png",
     "static/media/live07_01_2022.jpg": "/deadfuck/static/media/live07_01_2022.8a09c4ff6614152daaa1.jpg",
     "static/media/banniere_logo_2.0.jpg": "/deadfuck/static/media/banniere_logo_2.0.4fecfed49d8bf4e80538.jpg",
+    "static/media/logoFBDG trsprt.png": "/deadfuck/static/media/logoFBDG trsprt.90c5acd608d8244fc94f.png",
     "static/media/BanniereVC.jpg": "/deadfuck/static/media/BanniereVC.42a863a3422cd14a231a.jpg",
     "static/media/live19_05_2023.jpeg": "/deadfuck/static/media/live19_05_2023.f33b61f086b94bd43ff7.jpeg",
     "static/media/live17_05_2023.jpg": "/deadfuck/static/media/live17_05_2023.a10befea9bc6f0f76c8d.jpg",
@@ -28,6 +27,7 @@
     "static/media/live25_10_2019.jpg": "/deadfuck/static/media/live25_10_2019.ea6406afceb72b1bc61e.jpg",
     "static/media/pochette-40x40.jpg": "/deadfuck/static/media/pochette-40x40.29290164b562126e68da.jpg",
     "static/media/live18_06_2022.jpeg": "/deadfuck/static/media/live18_06_2022.922e5be267ca29436e73.jpeg",
+    "static/media/Fond.jpg": "/deadfuck/static/media/Fond.bec676de171fcf9af6e8.jpg",
     "static/media/BanniereVClogo.png": "/deadfuck/static/media/BanniereVClogo.3c40335d5bf5553b0abd.png",
     "static/media/Pochette Affliction.jpg": "/deadfuck/static/media/Pochette Affliction.ac30bde72fa6367baa6b.jpg",
     "static/media/live 16_10_2019.jpg": "/deadfuck/static/media/live 16_10_2019.e4c50e9b585ec3d15330.jpg",
@@ -54,12 +54,12 @@
     "static/media/live16_02_2023.jpeg": "/deadfuck/static/media/live16_02_2023.d5b912c772fcfe249eec.jpeg",
     "static/media/grind-n-noizy.jpg": "/deadfuck/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/deadfuck/index.html",
-    "main.5482e861.css.map": "/deadfuck/static/css/main.5482e861.css.map",
-    "main.3c12b62d.js.map": "/deadfuck/static/js/main.3c12b62d.js.map",
+    "main.83c3ed75.css.map": "/deadfuck/static/css/main.83c3ed75.css.map",
+    "main.fc5ac384.js.map": "/deadfuck/static/js/main.fc5ac384.js.map",
     "787.ae5b6e57.chunk.js.map": "/deadfuck/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5482e861.css",
-    "static/js/main.3c12b62d.js"
+    "static/css/main.83c3ed75.css",
+    "static/js/main.fc5ac384.js"
   ]
 }
