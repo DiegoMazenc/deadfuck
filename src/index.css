@@ -7,6 +7,10 @@ body {
   font-size: 13px;
 }
 
+h2{
+  font-family: serif;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

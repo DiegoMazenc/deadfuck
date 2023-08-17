@@ -1,6 +1,6 @@
 .form{
     display: flex;
-    margin: 10%;
+    margin: 20px 10%;
     
 }
 
@@ -60,6 +60,7 @@
     .form{
         display: flex;
         flex-direction: column-reverse;
+        margin-top: 0;
     }
 
     .block_form{

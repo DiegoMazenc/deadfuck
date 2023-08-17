@@ -85,9 +85,9 @@ const Bio = () => {
                     </div>
                     <div className="disco1">
                         <img src={pochettecharlatan} alt="" />
-                        <h4>Charlaton | <span className="motimportant">EP </span></h4>
+                        <h4>Charlatan | <span className="motimportant">EP </span></h4>
                         <p><span className="motimportant">Année </span>: 2022</p>
-                        <p><span className="motimportant">Tracks</span> : 5</p>
+                        <p><span className="motimportant">Tracks</span> : 3</p>
                         <p><span className="motimportant">Production</span> : Auto-production</p>
                     </div>
                     <div className="disco1">
