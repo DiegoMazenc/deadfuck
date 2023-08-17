@@ -1,3 +1,53 @@
+/*=====MENU BURGER=====*/
+
+.menu-toggle {
+    display: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.menu-icon {
+    width: 30px;
+    height: 2px;
+    background-color: white;
+    margin: 10px 0;
+    transition: 0.4s;
+}
+
+.menu-icon::before,
+.menu-icon::after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 2px;
+    background-color: white;
+    position: absolute;
+    transition: 0.4s;
+}
+
+.menu-icon::before {
+    top: 10px;
+}
+
+.menu-icon::after {
+    bottom: 17px;
+}
+
+.menu-icon.open {
+    background-color: transparent;
+    transform: rotate(45deg);
+}
+
+.menu-icon.open::before {
+    top: 0;
+    transform: rotate(90deg);
+}
+
+.menu-icon.open::after {
+    bottom: 0;
+    transform: rotate(90deg);
+}
+
 /*=====NAV=====*/
 
 .barnav {
@@ -44,14 +94,48 @@
 }
 
 
-
-@media screen and (max-width:800px) {
-
-    .nav li{
-        padding: 15px 10px;
+@media screen and (max-width: 800px) {
+    .menu-toggle {
+        display: block;
     }
-    .nav a{
-        font-size: 12px;
+
+    .nav ul {
+        display: none;
+        position: absolute;
+        top: 50px;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.7);
+        width: 150px;
+        flex-direction: column;
     }
-    
+
+    .nav ul.open {
+        display: flex;
+    }
+
+    .nav li {
+        padding: 10px 30px;
+        border-bottom: none;
+        text-align: left;
+    }
+
+    .menu-btn {
+        width: 30px;
+        height: 20px;
+        position: relative;
+    }
+
+    .menu-btn div {
+        width: 30px;
+        height: 2px;
+        background: white;
+        margin: 6px 0;
+        transition: 0.4s;
+    }
+
+    .menu-btn div.open {
+        background: transparent;
+    }
+
 }
+
