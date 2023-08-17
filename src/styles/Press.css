@@ -32,7 +32,7 @@
     display: flex;
     justify-content: space-between;
   
-    background:linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
+    background:linear-gradient(180deg, #e7d0b4 0%, #c9b791 100%);
     padding: 5px 20px;
     margin-bottom: 20px;
     border-radius: 5px;
@@ -210,7 +210,7 @@ h2{
     }
 
     .mantine-4p5av5{
-        padding : 10px;
+        padding : 5px 5px 10px;
     } 
 
     .mantine-1bmysm8{

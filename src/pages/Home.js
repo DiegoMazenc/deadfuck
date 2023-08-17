@@ -35,7 +35,7 @@ const Home = () => {
                         <div className="merchtext">
                             <hr />
                             <h3>New merch</h3>
-                            <h2>Upcoming soon !</h2>
+                            <h2>Coming soon !</h2>
                             <hr />
                         </div>
                         <a href="https://deadfuck.bandcamp.com/merch" className="preorder"  target="_blank"> Merch</a>

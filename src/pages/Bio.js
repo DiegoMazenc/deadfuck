@@ -76,9 +76,17 @@ const Bio = () => {
                 <h2>DISCOGRAPHY</h2>
                 <div className="discocards">
                     <div className="disco1">
-                        <img src={pochetteaffliction} alt="" />
-                        <h4>Afficltion | <span className="motimportant">EP, Demo</span></h4>
-                        <p><span className="motimportant">Année </span>: 2018</p>
+                        <img src={pochettevc} alt="" />
+                        <h4>Valeur Chair |<span className="motimportant"> Album</span> </h4>
+                        <p><span className="motimportant">Année </span>: 2023</p>
+                        <p><span className="motimportant">Tracks</span> : 12</p>
+                        <p><span className="motimportant">Production </span>: Auto-production <br /> Convulsound Production</p>
+                        <p><span className="motimportant">Distribution </span>: France, Black, Death, Grind</p>
+                    </div>
+                    <div className="disco1">
+                        <img src={pochettecharlatan} alt="" />
+                        <h4>Charlaton | <span className="motimportant">EP </span></h4>
+                        <p><span className="motimportant">Année </span>: 2022</p>
                         <p><span className="motimportant">Tracks</span> : 5</p>
                         <p><span className="motimportant">Production</span> : Auto-production</p>
                     </div>
@@ -91,20 +99,15 @@ const Bio = () => {
                         </p>
                     </div>
                     <div className="disco1">
-                        <img src={pochettecharlatan} alt="" />
-                        <h4>Charlaton | <span className="motimportant">EP </span></h4>
-                        <p><span className="motimportant">Année </span>: 2022</p>
+                        <img src={pochetteaffliction} alt="" />
+                        <h4>Afficltion | <span className="motimportant">EP, Demo</span></h4>
+                        <p><span className="motimportant">Année </span>: 2018</p>
                         <p><span className="motimportant">Tracks</span> : 5</p>
                         <p><span className="motimportant">Production</span> : Auto-production</p>
                     </div>
-                    <div className="disco1">
-                        <img src={pochettevc} alt="" />
-                        <h4>Valeur Chair |<span className="motimportant"> Album</span> </h4>
-                        <p><span className="motimportant">Année </span>: 2023</p>
-                        <p><span className="motimportant">Tracks</span> : 12</p>
-                        <p><span className="motimportant">Production </span>: Auto-production <br /> Convulsound Production</p>
-                        <p><span className="motimportant">Distribution </span>: France, Black, Death, Grind</p>
-                    </div>
+                    
+                    
+                    
                 </div>
             </div>
         </section>

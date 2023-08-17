@@ -11,6 +11,9 @@ import fbdg from '../img/logoFBDG trsprt.png';
 import { Link } from "react-router-dom";
 
 const Footer = () => {
+    const handleLinkClick = () => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      };
     return (
         <footer>
         <div className="footer">
@@ -41,11 +44,11 @@ const Footer = () => {
                     <h6>Navigation</h6>
                     <div className="liensnav">
                         <ul>
-                        <Link to="/"><li>Home</li></Link>
-                    <Link to="/Music"><li>Music</li></Link>
-                    <Link to="/Bio"><li>Bio</li></Link>
-                    <Link to="/Press"><li>Press</li></Link>
-                    <Link to="/Contact"> <li>Contact</li></Link>
+                        <Link to="/" onClick={handleLinkClick}><li>Home</li></Link>
+                    <Link to="/Music" onClick={handleLinkClick}><li>Music</li></Link>
+                    <Link to="/Bio" onClick={handleLinkClick}><li>Bio</li></Link>
+                    <Link to="/Press" onClick={handleLinkClick}><li>Press</li></Link>
+                    <Link to="/Contact" onClick={handleLinkClick}> <li>Contact</li></Link>
                     <a href="https://deadfuck.bandcamp.com/merch" target="_blank"><li className="merchbtn">Shop</li></a>
                         </ul>
                     </div>

@@ -60,11 +60,11 @@
     padding-top: 2%;
     color: #2F2B20;
     margin: 5px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .promotext h2 {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .promovideo {
@@ -119,21 +119,22 @@
     }
 
     .promo img {
-        width: 80%;
+        width: 90%;
         height: auto;
-        margin: 0 10%;
+        margin: 0 5%;
     }
 
     .promotext {
         position: none;
-        width: 80%;
-        margin: 0 10%;
+        width: 90%;
+        margin: 0 5%;
         border-radius: 0 0 15px 15px;
 
     }
 
     .promotext h3 {
         margin-top: 0;
+        padding-top: 15px;
     }
 
     .promovideo {
@@ -157,7 +158,6 @@
     position: relative;
     background-image: url(../img/Fond.jpg);
     background-size: cover;
-    background-attachment: fixed;
     background-position: center;
 }
 
@@ -181,16 +181,18 @@ h3 {
     font-weight: 100;
     line-height: 10px;
     font-size: 25px;
-    margin-top: 20px;
+    margin-top: 15px;
+    font-size: 20px;
 }
 
 .merchtext h2 {
-    font-size: 30px;
-    margin-bottom: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .merchtext hr {
     border: #DDC263 1px solid;
+    margin: 5px;
 }
 
 .articlemerch a {
