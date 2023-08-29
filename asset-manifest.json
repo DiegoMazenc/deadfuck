@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deadfuck/static/css/main.aaca61e8.css",
-    "main.js": "/deadfuck/static/js/main.ece5d02a.js",
+    "main.css": "/deadfuck/static/css/main.5d453247.css",
+    "main.js": "/deadfuck/static/js/main.b19f3759.js",
     "static/js/787.ae5b6e57.chunk.js": "/deadfuck/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/deadfuck/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/deadfuck/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -54,12 +54,12 @@
     "static/media/live16_02_2023.jpeg": "/deadfuck/static/media/live16_02_2023.d5b912c772fcfe249eec.jpeg",
     "static/media/grind-n-noizy.jpg": "/deadfuck/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/deadfuck/index.html",
-    "main.aaca61e8.css.map": "/deadfuck/static/css/main.aaca61e8.css.map",
-    "main.ece5d02a.js.map": "/deadfuck/static/js/main.ece5d02a.js.map",
+    "main.5d453247.css.map": "/deadfuck/static/css/main.5d453247.css.map",
+    "main.b19f3759.js.map": "/deadfuck/static/js/main.b19f3759.js.map",
     "787.ae5b6e57.chunk.js.map": "/deadfuck/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaca61e8.css",
-    "static/js/main.ece5d02a.js"
+    "static/css/main.5d453247.css",
+    "static/js/main.b19f3759.js"
   ]
 }
