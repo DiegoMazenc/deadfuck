@@ -44,7 +44,7 @@ const Music = () => {
             </div>
             <div className="article1bottom">
                 <div className="lienclip">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/uy7ggbsy5RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="560" height="352" src="https://www.youtube.com/embed/uy7ggbsy5RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 <div className="lienspotify">
                 <iframe  src="https://open.spotify.com/embed/album/3k0s2U673R6SlhwhaTkako?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

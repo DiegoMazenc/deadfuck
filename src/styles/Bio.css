@@ -160,7 +160,7 @@ h2{
 .liveyear img:hover{
     width: 304px;
     margin: 7px 0px;
-    box-shadow: #f0e9d2 0px 0px 15px;
+    box-shadow: #f0e9d2 0px 0px 8px;
 }
 
 .live2{
@@ -179,9 +179,9 @@ h2{
     }
 
     .liveyear img:hover{
-        width: 160px;
-        margin: 0 -7px;
-        box-shadow: #f0e9d2 0px 0px 15px;
+        width: 155px;
+       
+        
     }
     
 }
