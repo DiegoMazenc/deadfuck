@@ -33,11 +33,11 @@ const Music = () => {
                     <hr />
                     <div className="article1liens">
                         <a href="https://deadfuck.bandcamp.com/album/valeur-chair" target="_blank"><img src={bandcamprond} alt="" /></a>
-                        <a href="https://www.youtube.com/watch?v=6UkNzZkqG7Y&list=PLej_KM65LLo673y9axpFwh5A-8GXhpYeY&ab_channel=DeadfuckOfficiel" target="_blank"><img src={youtuberond} alt="" /></a>
-                        <a href="https://open.spotify.com/intl-fr/album/3k0s2U673R6SlhwhaTkako" target="_blank"><img src={spotifyrond} alt="" /></a>
-                        <a href="https://www.deezer.com/fr/album/469461045" target="_blank"><img src={deezerrond} alt="" /></a>
-                        <a href="https://music.apple.com/us/album/b%C3%A9tail-feat-matthieu-from-festering-process-single/1699609872" target="_blank"><img src={itunesrond} alt="" /></a>
-                        <a href="https://www.amazon.fr/music/player/albums/B0CCYXFJ2F" target="_blank"><img src={amazonrond} alt="" /></a>
+                        <a href="https://www.youtube.com/watch?v=oWhTNWCr7a8&ab_channel=DeadfuckOfficiel" target="_blank"><img src={youtuberond} alt="" /></a>
+                        <a href="https://open.spotify.com/intl-fr/album/2y2rR1jhpkL2KZ0wtHs4XP" target="_blank"><img src={spotifyrond} alt="" /></a>
+                        <a href="https://www.deezer.com/fr/album/485380455" target="_blank"><img src={deezerrond} alt="" /></a>
+                        <a href="https://music.apple.com/fr/album/valeur-chair/1706440391" target="_blank"><img src={itunesrond} alt="" /></a>
+                        <a href="https://www.amazon.fr/music/player/albums/B0CHL2WJ1N" target="_blank"><img src={amazonrond} alt="" /></a>
 
                     </div>
                 </div>
@@ -47,7 +47,7 @@ const Music = () => {
                     <iframe width="560" height="352" src="https://www.youtube.com/embed/uy7ggbsy5RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 <div className="lienspotify">
-                <iframe  src="https://open.spotify.com/embed/album/3k0s2U673R6SlhwhaTkako?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                <iframe src="https://open.spotify.com/embed/album/2y2rR1jhpkL2KZ0wtHs4XP?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                 </div>
             </div>
         </div>
