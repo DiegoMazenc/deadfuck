@@ -7,6 +7,7 @@ import pochetteaffliction from '../img/Pochette Affliction.jpg';
 import live18_09_2018 from '../img/live/live18_09_2018.jpg';
 import live10_07_2021 from '../img/live/live10_07_2021.jpg';
 import live16_09_2022 from '../img/live/live16_09_2022.jpg';
+import Live12_09_2023 from '../img/live/live12_09_2023.jpg';
 import fbdg from '../img/logoFBDG trsprt.png';
 import lhn from '../img/la-horde-noire-2.jpg';
 import gnn from '../img/grind-n-noizy.jpg';
@@ -35,7 +36,7 @@ function Press() {
                         <Tabs color="yellow" variant="pills" radius="md" orientation="vertical" defaultValue="Wallabirzine">
                             <Tabs.List>
                                 <Tabs.Tab value="Wallabirzine">Wallabirzine</Tabs.Tab>
-
+                                <Tabs.Tab value="Nonoise">Nonoise Nogood Webzine</Tabs.Tab>
                             </Tabs.List>
 
                             <Tabs.Panel value="Wallabirzine" pl="xs">
@@ -44,7 +45,37 @@ function Press() {
                                     <p>Auteur : --</p>
                                     <p>Note : --</p>
                                 </div>
-                                Influencé par Benighted, Jig-Ai, Nasum, Dying Fetus, Devourment. La sorcellerie du trio Lyonnais de DEADFUCK, de grindcore/deathlique surgit de cet album comme une lumière indistincte. Elle vient de la terre, des musiciens, des riffs, de cette rythmique animale et blast, et de chant gruikdesque.<br/> Ne laissez personne vous dire le contraire. Ce disque de bourre-pif bovin est subjugué par sa droiture véhémente. Sous la langue humide de ces psaumes, un nouvel amour implanté flâne dans vos entrailles en un torrent de lave blasté.
+                                Influencé par Benighted, Jig-Ai, Nasum, Dying Fetus, Devourment. La sorcellerie du trio Lyonnais de DEADFUCK, de grindcore/deathlique surgit de cet album comme une lumière indistincte. Elle vient de la terre, des musiciens, des riffs, de cette rythmique animale et blast, et de chant gruikdesque.<br /> Ne laissez personne vous dire le contraire. Ce disque de bourre-pif bovin est subjugué par sa droiture véhémente. Sous la langue humide de ces psaumes, un nouvel amour implanté flâne dans vos entrailles en un torrent de lave blasté.
+                            </Tabs.Panel>
+
+                            <Tabs.Panel value="Nonoise" pl="xs">
+                                <div className="titrechro">
+                                    <p>Nonoise Nogood Webzine</p>
+                                    <p>Auteur : Davidnonoise</p>
+                                    <p>Note : --</p>
+                                </div>
+                                Deadfuck  " valeur chair"<br />
+                                Tout chaud ,tout beau,voici la nouvelle réalisation des Lyonnais de Deadfuck.<br />
+                                12 titres dont l'influence première pourrait être Benighted,surtout au niveau de l'étendue vocale du frontman.
+                                Y a pire comme influence,non?<br />
+                                Il est donc facile a comprendre que le groupe n'est pas particulièrement axé doom metal,mais plutôt brutal death et grind bien tordu.<br />
+                                Le trio se pose avec 12 compos, issues d'un ou plusieurs cerveaux malades ,dont l'univers serait plus proche de la crise d'épilepsie que de l'effet d'un neuroleptique pour hippopotame.<br /><br />
+                                Du blast,du gruik,de la double,des riffs bien grind ,qui tombent parfois dans une accalmie plus slam death.
+                                Cependant l'orientation reste principalement vers Benighted,a plusieurs niveaux. Bien que l'aspect vocal part encore plus loin que celui des autres frenchy.<br />
+                                Le skeud est court,car seulement 3 titres dépassent les deux minutes. 2 minutes pour du grind , c'est quasiment du morceau des Pink Floyd.<br />
+                                Musicalement,il n'y a pas le temps de s'ennuyer en écoutant le déluge nous tomber sur la gueule,car le groupe a tout de même bien élaboré ses compos, malgré la courte durée.<br />
+                                Charlatan est delirant par exemple.<br /><br />
+                                Un folie douce fortement bien produite, même si j'aurais aimé un son de caisse claire un poil plus audible dans les passages rapides.
+                                En dehors de ce chipotage honteux de ma part,j'avoue,il ressort un bon volume d'écoute de mes enceintes ,qui raffolent de ce genre d'épaisseur sonore .<br /><br />
+                                A noter qu'il y a un bel effort au niveau des textes,en français et qui sont consultables sur leur bandcamp :
+                                "Tu vis et puis tu grandis dans un monde qui est rempli de mépris<br />
+                                On t’offrira la connaissance et le savoir et tout autant de sentiments détestables<br />
+                                Tes efforts qui t’élèvent peuvent être la source d’épreuves qui t’achèvent<br />
+                                Tu te perdras dans un épais brouillard sans comprendre les raisons de ces songes déplorables"<br /><br />
+                                Comme quoi, c'est une raison de plus pour se pencher sur ce nouvel album .<br />
+                                Entraînant et taillé pour le live.<br />
+                                Go checker tout ça.<br />
+                                Well done
                             </Tabs.Panel>
                         </Tabs>
                     </Tabs.Panel>
@@ -62,7 +93,7 @@ function Press() {
                                     <p>Auteur : Yoann</p>
                                     <p>Note : --</p>
                                 </div>
-                                Et une petite mise en bouche en attendant le nouvel album !!! DEADFUCK nous a sorti trois morceaux enregistrés en mode total DIY, faut pas trop vous étonner de la qualité sonore (quoique c'est quand même tout à fait honnête pour ce style d'enregistrement).<br/> A l'heure où j'écris ces lignes, je ne sais toujours pas si ce sont des titres qui seront présents justement sur cet album en préparation (les réponses doivent se trouver dans l'interview), mais dans l'ensemble ça n'annonce que du bon (surtout si la production est à la hauteur) avec un grind/death bien relevé qui remmémore pas mal de groupes du milieu des années 2000, qui piochent à la fois dans la dureté du death que dans l'explosion du grind/hardcore. Petite surprise sur le dernier morceau avec une intervention rappée. "Charlatan" est certes court, mais ça passe tout seul à l'apéro et ça augure de bonnes choses pour l'avenir. A suivre.
+                                Et une petite mise en bouche en attendant le nouvel album !!! DEADFUCK nous a sorti trois morceaux enregistrés en mode total DIY, faut pas trop vous étonner de la qualité sonore (quoique c'est quand même tout à fait honnête pour ce style d'enregistrement).<br /> A l'heure où j'écris ces lignes, je ne sais toujours pas si ce sont des titres qui seront présents justement sur cet album en préparation (les réponses doivent se trouver dans l'interview), mais dans l'ensemble ça n'annonce que du bon (surtout si la production est à la hauteur) avec un grind/death bien relevé qui remmémore pas mal de groupes du milieu des années 2000, qui piochent à la fois dans la dureté du death que dans l'explosion du grind/hardcore. Petite surprise sur le dernier morceau avec une intervention rappée. "Charlatan" est certes court, mais ça passe tout seul à l'apéro et ça augure de bonnes choses pour l'avenir. A suivre.
                             </Tabs.Panel>
                         </Tabs>
                     </Tabs.Panel>
@@ -84,9 +115,9 @@ function Press() {
                                     <p>Auteur : Xavier</p>
                                     <p>Note : --</p>
                                 </div>
-                                Le sujet de l’album de DeadFuck est clair : nous allons examiner, en profondeur, les différentes facettes de l’Humanité. Et ce n’est pas très beau à voir. Mais qu’est ce que c’est bon à entendre !<br/> Le grind-core des lyonnais de DeadFuck est d’une violence assourdissante. Ici, les bases sont posées dès les premiers instants de Parasite, qui ouvre l’album avec ce petit insert sonore « c’est qu’on va vers une fin de l’Humanité ». Vous savez à quoi vous en tenir. Comme lorsque nous passez le portail qui porte à son sommet « vous qui entrez en ce lieu, abandonnez tout espoir ».<br/><br/> DeadFuck a fait les choses en grand pour son  album #humanité : digipack, pochette travaillée, livret avec les paroles (parfaitement inaudibles bien sûr). Un bel objet qui est l’aboutissement du travail de composition du groupe. Les titres sont tous aussi dévastateurs les uns que les autres. Et les intro ou outro qui font toujours mouches comme les très classiques extraits du film « Maîtresses très particulières » de Burd Tranbaree, sur Obscène (titre4), vous met bien dans l’ambiance. <br/>Ici, c’est violent, c’est sale, à l’image du monde actuel. Aucune concession n’est possible pour DeadFuck (Innocence).<br/>
+                                Le sujet de l’album de DeadFuck est clair : nous allons examiner, en profondeur, les différentes facettes de l’Humanité. Et ce n’est pas très beau à voir. Mais qu’est ce que c’est bon à entendre !<br /> Le grind-core des lyonnais de DeadFuck est d’une violence assourdissante. Ici, les bases sont posées dès les premiers instants de Parasite, qui ouvre l’album avec ce petit insert sonore « c’est qu’on va vers une fin de l’Humanité ». Vous savez à quoi vous en tenir. Comme lorsque nous passez le portail qui porte à son sommet « vous qui entrez en ce lieu, abandonnez tout espoir ».<br /><br /> DeadFuck a fait les choses en grand pour son  album #humanité : digipack, pochette travaillée, livret avec les paroles (parfaitement inaudibles bien sûr). Un bel objet qui est l’aboutissement du travail de composition du groupe. Les titres sont tous aussi dévastateurs les uns que les autres. Et les intro ou outro qui font toujours mouches comme les très classiques extraits du film « Maîtresses très particulières » de Burd Tranbaree, sur Obscène (titre4), vous met bien dans l’ambiance. <br />Ici, c’est violent, c’est sale, à l’image du monde actuel. Aucune concession n’est possible pour DeadFuck (Innocence).<br />
                                 Les breaks, beat-down, growls, aspis et autres spécificités techniques du grind, sont exploités dans tous les sens. Et loin d’un gros bordel sonore, c’est un cataclysme parfaitement organisé quoi
-                                vous arrive en pleine face.<br/><br/> C’est agressif, abrasif à souhait. Il est évident que si vous êtes vierge en la matière, vous allez sortir de cette écoute avec les oreilles en sang. Mais une fois les conduits auditifs bien élargis, vous trouverez un véritable plaisir à vous faire violenter, de savante manière par la brutalité des compositions de DeadFuck.
+                                vous arrive en pleine face.<br /><br /> C’est agressif, abrasif à souhait. Il est évident que si vous êtes vierge en la matière, vous allez sortir de cette écoute avec les oreilles en sang. Mais une fois les conduits auditifs bien élargis, vous trouverez un véritable plaisir à vous faire violenter, de savante manière par la brutalité des compositions de DeadFuck.
 
                             </Tabs.Panel>
 
@@ -97,9 +128,9 @@ function Press() {
                                     <p>Note : 8.5/10</p>
                                 </div>
                                 Le Death/Grind du trio Lyonnais Deadfuck ( tient ça me rappelle une chanson du groupe de
-                                brutal death américain Gorgasm...) passe à un autre niveau en cette année 2020. En effet après un premier EP en 2018, qui était déjà bon mais trés court et avec un son très underground , ils reviennent pour mettre tous le monde d’accord avec « #humanité » .<br/><br/>
+                                brutal death américain Gorgasm...) passe à un autre niveau en cette année 2020. En effet après un premier EP en 2018, qui était déjà bon mais trés court et avec un son très underground , ils reviennent pour mettre tous le monde d’accord avec « #humanité » .<br /><br />
                                 Le premier album de Deadfuck se compose de 12 titres pour une durée de 21 minutes et 43 secondes ( typiquement Grind ça ). L’artwork réalisé par leurs chanteur Diego est sublime, il réussi à nous mettre dans le ton de l’album sans encore l’avoir mis sur platine. Des paroles en français et pour chaque titre un mot... on n’est pas loin du concept album, tout semble être en adéquation pour.
-                                Musicalement c’est puissant, honnête, ça vient des tripes, ça prend au tripes, du death/grind maîtrisé et appliqué avec passion. Les cassures de rythme se font légion, Antoine à la batterie nous montre que pour apprécier un jeu rapide il faut également savoir casser des cervicales avec des rythmiques lourdes et intenses. Les riffs de guitare sont inspirés, allant du death au grind avec une énergie punk perceptible, tout cela avec un bon gros son d’une lourdeur abyssale mais sans perdre en énergie, chose qui est assez rare dans le Death/grind pour être souligné. Mention spéciale pour le chanteur Diego qui nous prouve que l’on n’est pas obligé de faire dans le gore dans ce style de musique trop souvent stéréotypé, que l’on peut faire des growls et des gruiks mais arriver à traiter des sujets sérieux et de société comme sur ‘Chroma’ (racisme), ‘Innocence’ (pédophilie) ou encore ‘Catharsis’ (la musique comme exécutoire ).... Tout cela écrit d’une bien belle façon et en français s’il vous plaît ! <br/><br/>Deadfuck livre un album complet de très bonne facture et on sent déjà que chaque titre peut faire très mal lors de leurs futures concerts car il est évident après écoute que les morceaux de ce sublime album est fait pour le live. Des blasts, des gruiks et des compositions inspirées à base de structures déconcertantes qui laissent l’auditeur, même averti, sur le cul !
+                                Musicalement c’est puissant, honnête, ça vient des tripes, ça prend au tripes, du death/grind maîtrisé et appliqué avec passion. Les cassures de rythme se font légion, Antoine à la batterie nous montre que pour apprécier un jeu rapide il faut également savoir casser des cervicales avec des rythmiques lourdes et intenses. Les riffs de guitare sont inspirés, allant du death au grind avec une énergie punk perceptible, tout cela avec un bon gros son d’une lourdeur abyssale mais sans perdre en énergie, chose qui est assez rare dans le Death/grind pour être souligné. Mention spéciale pour le chanteur Diego qui nous prouve que l’on n’est pas obligé de faire dans le gore dans ce style de musique trop souvent stéréotypé, que l’on peut faire des growls et des gruiks mais arriver à traiter des sujets sérieux et de société comme sur ‘Chroma’ (racisme), ‘Innocence’ (pédophilie) ou encore ‘Catharsis’ (la musique comme exécutoire ).... Tout cela écrit d’une bien belle façon et en français s’il vous plaît ! <br /><br />Deadfuck livre un album complet de très bonne facture et on sent déjà que chaque titre peut faire très mal lors de leurs futures concerts car il est évident après écoute que les morceaux de ce sublime album est fait pour le live. Des blasts, des gruiks et des compositions inspirées à base de structures déconcertantes qui laissent l’auditeur, même averti, sur le cul !
 
 
                             </Tabs.Panel>
@@ -123,7 +154,7 @@ function Press() {
                                 sur ce premier album) mais heureusement aucune
                                 redite ne se fait sentir tant le trio a enfin pu s’offrir
                                 une production qui lui fait franchir un palier dans
-                                sa brutalité !<br/><br/>
+                                sa brutalité !<br /><br />
                                 Pour ma part si «#humanité» n’avait été qu’un album
                                 bas du front pour le style j’aurai donné une fin de
                                 non recevoir et malgré un patronyme qui pourrait
@@ -136,7 +167,7 @@ function Press() {
                                 porcins qui restent la pour le coup dans le plus pur
                                 porngrind (autant prévenir qu’il faudra se lever de
                                 bon matin pour arriver a caler les jolis textes en
-                                Francais du livret avec les vociférations de Diégo!).<br/><br/>
+                                Francais du livret avec les vociférations de Diégo!).<br /><br />
                                 Je ne trouve pas utile d’extraire en exemples
                                 certains titres de «#humanité» pour mettre en
                                 évidence les différentes facettes de la brutalité
@@ -154,7 +185,7 @@ function Press() {
                                 Heureusement Deadfuck n’en oublie pas un poils
                                 de gaudriole avec un «Obscéne» accompagné
                                 de son intro et son outro bien connue de fans de
-                                nanars !<br/><br/>
+                                nanars !<br /><br />
                                 «#humanité» est donc un album que je ne
                                 recommande pas seulement aux fans de grindcore
                                 mais plus largement aussi aux amateurs de brutal
@@ -220,7 +251,7 @@ function Press() {
                                 pu nous offrir ces dernières années, autant vous
                                 dire qu’il est devenu, pour une galette, difficile
                                 de se tailler une place de choix dans mes menus
-                                quotidiens.<br/><br/>
+                                quotidiens.<br /><br />
                                 Oui, j’aime le Grindcore, dans ce qu’il peut avoir de
                                 plus bête, de plus méchant. Forcément, ce n’était
                                 qu’une question de temps avant que je ne me
@@ -244,7 +275,7 @@ function Press() {
                                 trio, en indépendant. Un «long» format se voulant,
                                 si l’on en croit le couple tracklist et pochette, un
                                 tantinet revendicatif, une palanquée rageur. Alors,
-                                essai transformé ?<br/><br/>
+                                essai transformé ?<br /><br />
                                 La réponse est oui. J’évoquais l’évolution du
                                 combo plus haut, ce n’est pas pour rien : Enfin un
                                 son qui soit à la hauteur des douze titres ! Enfin,
@@ -260,7 +291,7 @@ function Press() {
                                 le cul («Innocence» et son final, bordel !), tient
                                 solidement la baraque. Il bourre, il bourre, sans
                                 jamais faiblir, bref, grand plaisir. Et le chant, du
-                                coup ?<br/><br/>
+                                coup ?<br /><br />
                                 C’est mon seul gros grief envers «#Humanité»,
                                 pour être tout à fait honnête. Dès qu’il s’agit
                                 de hurler ou de beugler (oui oui, il y a bien une
@@ -281,7 +312,7 @@ function Press() {
                                 ton de l’album - même si quelques samples bien
                                 crétins («Obscène») pourraient me donner tort.
                                 Tant mieux pour ceux qui y goûtent, et tant pis
-                                pour moi !<br/><br/>
+                                pour moi !<br /><br />
                                 «#Humanité» me plaît, indéniablement. Audelà
                                 d’être, avant toute chose, un bon album
                                 de Grindcore, teinté de Death Metal quand il
@@ -321,14 +352,14 @@ function Press() {
                                 Je vais être honnête, ça fait des mois que la bio
                                 du groupe est faite mais que je n’arrive pas à me
                                 pencher sur l’EP. Déjà il faut admettre que le chant
-                                «grind» ne m’a jamais vraiment séduit.<br/>
+                                «grind» ne m’a jamais vraiment séduit.<br />
                                 A chaque tentative d’écoute, je fais autre chose
                                 en même temps, ma concentration est ailleurs, je
-                                trouve ça brouillon. Je zappe. Plusieurs fois.<br/><br/>
+                                trouve ça brouillon. Je zappe. Plusieurs fois.<br /><br />
                                 Et là, les mecs de Deadfuck qui sont en train de
                                 lire la chronique ils transpirent tu vois.
                                 Je me caresse la barbe tranquille, en me disant
-                                que je suis un bel enculé. J’me marre.<br/><br/>
+                                que je suis un bel enculé. J’me marre.<br /><br />
                                 Bon ok, je me suis assis tranquille dans mon canap’
                                 et posé un casque sur mes oreilles. L’écoute s’en
                                 est trouvée métamorphosée. Pourquoi pas, mais ce
@@ -336,7 +367,7 @@ function Press() {
                                 écoute d’un groupe revendiquant des influences
                                 death et grInd. Faut admettre que l’effort (surtout
                                 pour moi) est moindre puisqu’avec cinq titres le
-                                bordel dure sept minutes.<br/><br/>
+                                bordel dure sept minutes.<br /><br />
                                 Finalement, moi qui ne suis pas friand de ces univers
                                 j’ai fini par y prendre beaucoup de plaisir. Je me
                                 fais progressivement au son si singulier du style.
@@ -348,7 +379,7 @@ function Press() {
                                 un niveau incomparable, le groupe s’attaquant à
                                 des sujets aussi sérieux que la pédophilie ou le
                                 racisme. Ca je l’ai appris en lisant la bio (à l’écoute
-                                c’était compliqué).<br/><br/>
+                                c’était compliqué).<br /><br />
                                 Il faut aussi admettre que certains riffs sont
                                 absolument destructeurs, soutenus par une
                                 batterie dont la caisse clair se prend pour un
@@ -358,7 +389,7 @@ function Press() {
                                 on réalise tout ça le temps devient d’autant plus
                                 court encore. L’EP a cessé de tourner avant même
                                 que tu aies fini de te gratter les couilles. Tu avais
-                                commencé au premier titre, c’est dire.<br/><br/>
+                                commencé au premier titre, c’est dire.<br /><br />
                                 Il y a du bon dans ce disque. Même du très bon.
                                 Si tu es déjà adepte du style tu le comprendras
                                 sûrement plus vite que moi. Si tu l’es pas je t’invite
@@ -380,7 +411,7 @@ function Press() {
                             <Tabs.Tab value="18/09/2018" ><div className="dateLR">18/09/2018</div></Tabs.Tab>
                             <Tabs.Tab value="10/07/2021" ><div className="dateLR">10/07/2021</div></Tabs.Tab>
                             <Tabs.Tab value="16/09/2022" ><div className="dateLR">16/09/2022</div></Tabs.Tab>
-
+                            <Tabs.Tab value="12/09/2023" ><div className="dateLR">12/09/2023</div></Tabs.Tab>
                         </Tabs.List>
                     </div>
 
@@ -566,6 +597,40 @@ function Press() {
 
                         </Tabs>
                     </Tabs.Panel>
+
+                    <Tabs.Panel value="12/09/2023" pt="xs">
+
+                        <Tabs color="yellow" variant="pills" radius="md" orientation="vertical" defaultValue="Pavillon 666">
+                            <Tabs.List>
+                                <Tabs.Tab value="Pavillon 666">Pavillon 666</Tabs.Tab>
+
+                            </Tabs.List>
+
+                            <Tabs.Panel value="Pavillon 666" pl="xs">
+                                <div className="titrechro">
+                                    <p>Pavillon 666</p>
+                                    <p>Auteur : Black.Roger</p>
+                                </div>
+                                <div className="articleLR">
+                                    <div className="imgLR"><img src={Live12_09_2023} alt="" /></div>
+                                    <div className="textLR">
+                                        <h3 className="titreLR">DEADFUCK + 3RD WAR COLLAPSE <br />
+                                            12/09/2023 À LYON, FRANCE
+                                            (LE FARMER)</h3>
+                                        <hr />
+                                        Quand on a le grind au « core », on monte à la Croix-Rousse de Lyon au Farmer. Et ça tombe bien ce Mardi 12 Septembre 2023 car ce soir on nous propose les prestations des Lyonnais de DEADFUCK qui effectuent la release party de leur album « Valeur Chair », mais aussi  nous aurons droit au death/grind brutal des Brésiliens de 3RD WAR COLLAPSE en tournée Européenne actuellement.<br />
+                                        Après avoir sorti un premier EP « Affliction » (2018) en guise d'apéritif, le trio Lyonnais DEADFUCK nous sert son plat de résistance, un album appelé « Valeur Chair » en cette fin de torride été 2023. Et ce soir, il nous le présente dans la chaleur du Farmer de Lyon.<br />
+                                        Alors place en live de compositions destructrices de neurones, et si vous aimez les images je situerai les déviances de Deadfuck entre le old-school de BLOCKHEADS et les dérapages gore des garçons bouchers de New-York MORTICIAN dans une moindre mesure, les bruits de fond samplés tout simplement.
+                                        C'est enragé et engagés dans les textes sur des envois mitrailleuse et lourds de conséquence, entre voix porcine, guitare basse malsaine et batterie plombée, aargh !<br />
+                                        Bonne ambiance dans les lieux où l'on s'envoie en l'air aussi, c'est vous dire, quel set !
+                                    </div>
+                                </div>
+
+                            </Tabs.Panel>
+
+
+                        </Tabs>
+                    </Tabs.Panel>
                 </Tabs>
             </div>
             <h2>INTERVIEWS</h2>
@@ -575,15 +640,15 @@ function Press() {
                     <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">La Horde Noire</span></p>
                     <p>29/11/2020</p>
                     <a href="http://www.lahordenoire-metal.com/interview/deadfuck/deadfuck.html" target="_blank" className="btn_interview">Voir l'interview</a>
-                    
+
                 </div>
                 <div className="cardinterview">
-                    <img src={fbdg} alt="" className="img_fbdg"/>
+                    <img src={fbdg} alt="" className="img_fbdg" />
                     <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">France, Black, Death, Grind</span></p>
                     <p>23/12/2020</p>
                     <a href="https://drive.google.com/file/d/1EJOqtgoRhpVkvnVQoIGVUIsidRjIvZr_/view" target="_blank" className="btn_interview">Voir l'interview</a>
                 </div>
-                
+
                 <div className="cardinterview">
                     <img src={gnn} alt="" />
                     <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">Grind'N'Noizy</span></p>
