@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.701bba67.css",
-    "main.js": "/static/js/main.7523d5b5.js",
+    "main.js": "/static/js/main.43884e73.js",
     "static/js/787.ae5b6e57.chunk.js": "/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -48,6 +48,7 @@
     "static/media/live04_05_2018.jpg": "/static/media/live04_05_2018.f2b2ff99e5c464c1641e.jpg",
     "static/media/Bandcamp-rond.png": "/static/media/Bandcamp-rond.243c91f21ab91baa93f6.png",
     "static/media/live18_09_2018.jpg": "/static/media/live18_09_2018.20aaecfb1ca574cce285.jpg",
+    "static/media/live12_09_2023.jpg": "/static/media/live12_09_2023.c154a4e1ec08138e1acc.jpg",
     "static/media/live27_02_2018.jpg": "/static/media/live27_02_2018.b0d23335d968d6ef824f.jpg",
     "static/media/live15_06_2019.jpg": "/static/media/live15_06_2019.7e837c3833a3e06a3130.jpg",
     "static/media/live10_07_2021.jpg": "/static/media/live10_07_2021.cf3f9e886f92c4f5d87c.jpg",
@@ -55,11 +56,11 @@
     "static/media/grind-n-noizy.jpg": "/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/index.html",
     "main.701bba67.css.map": "/static/css/main.701bba67.css.map",
-    "main.7523d5b5.js.map": "/static/js/main.7523d5b5.js.map",
+    "main.43884e73.js.map": "/static/js/main.43884e73.js.map",
     "787.ae5b6e57.chunk.js.map": "/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.701bba67.css",
-    "static/js/main.7523d5b5.js"
+    "static/js/main.43884e73.js"
   ]
 }
