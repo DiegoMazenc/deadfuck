@@ -158,8 +158,8 @@ h2{
 }
 
 .liveyear img:hover{
-    width: 304px;
-    margin: 7px 0px;
+    /* width: 304px;
+    margin: 7px 0px; */
     box-shadow: #f0e9d2 0px 0px 8px;
 }
 
@@ -178,10 +178,10 @@ h2{
         width: 150px;
     }
 
-    .liveyear img:hover{
+    /* .liveyear img:hover{
         width: 155px;
        
         
-    }
+    } */
     
 }

@@ -11,6 +11,8 @@ import Live12_09_2023 from '../img/live/live12_09_2023.jpg';
 import fbdg from '../img/logoFBDG trsprt.png';
 import lhn from '../img/la-horde-noire-2.jpg';
 import gnn from '../img/grind-n-noizy.jpg';
+import miv from '../img/MetalInVeins.jpg';
+import raca from '../img/RadioCanut.jpg';
 
 import { Tabs } from '@mantine/core';
 
@@ -37,6 +39,8 @@ function Press() {
                             <Tabs.List>
                                 <Tabs.Tab value="Wallabirzine">Wallabirzine</Tabs.Tab>
                                 <Tabs.Tab value="Nonoise">Nonoise Nogood Webzine</Tabs.Tab>
+                                <Tabs.Tab value="Anteverse">Anteverse</Tabs.Tab>
+                                <Tabs.Tab value="Metallian">Metallian</Tabs.Tab>
                             </Tabs.List>
 
                             <Tabs.Panel value="Wallabirzine" pl="xs">
@@ -76,6 +80,30 @@ function Press() {
                                 Entraînant et taillé pour le live.<br />
                                 Go checker tout ça.<br />
                                 Well done
+                            </Tabs.Panel>
+
+                            <Tabs.Panel value="Anteverse" pl="xs">
+                                <div className="titrechro">
+                                    <p>Anterverse</p>
+                                    <p>Auteur : Anteverse</p>
+                                    <p>Note : 4/5</p>
+                                </div>
+                                J'avais pris une belle mandale dans gueule en 2020 avec le "#Humanity" du trio Lyonnais Deadfuck nouveau venu sur la scène death/grind depuis 2018 et leur EP "Affliction", et de l'eau aura coulé sous les ponts en trois années mais sans oublier d'omettre un "EP" trois titres avec "Charlatan" en 2022. Deadfuck aura donc bien fait ses preuves sur skeuds que sur les planches et a su prouver que l'on pouvait compter sur ces derniers pour faire perdurer la scène death et grindcore (végétarienne) hexagonale.<br/><br/>
+
+                                Et c'est en 2023 que tout va se jouer avec ce "Valeur Chair" qui va devoir entériner le savoir faire du trio et prouver ou non si l'on se doit de continuer a miser sur la bête Deadfuck. Et la réponse est bien sur que oui ! Meme si je poserai d'entrée un bémol avec le fait que l'effet de surpise aura disparu et qu'il faudra s'appuyer encore plus sur le contenu de ce second album. Bon déjà l'on est largement rassuré avec l'intro "Diégèse" qui nous assène une nouvelle fois une production ultra massive qui fait exploser d'autant plus les titres les plus punks de "Valeur Chair" ("Ecchymose", le groovy "Genèse", "Apoptose", "Grime" et ses riffs a faire vriller les cervicales et l'ultra court "Brutal" qui termine le skeud"), mais si vous êtes la a lire cette chronique c'est pour vous prendre une dose de blastbeat ce qui sera fait avec les fou furieux "Traitre" et son riff ultra efficace, le plus varié "Bétail" avec en guest Mathieu de Festering Process autre gros morceau grind avec son solo simple mais efficace (et le seul de l'album) et le a la fois ultra speed et saccadé "Pandémie".<br/><br/>
+
+                                "Traitre" et "Bétail" qui sont donc pour moi les meilleurs titres de "Valeur Chair" par leur variété et leur composiition plus chiadée auquel je rajouterai "Maniaque", archi Carcassien dans l'approche de ses riffs et son ambiance qui ouvre une belle porte sur l'avenir du groupe avec ce titre ultra efficace en parti midtempo. Et pour terminer je poserai un dernier projecteur sur le titre "Charlatan" qui ira chercher plus du coté du power noise que du pure grindcore.<br/><br/>
+
+                                L'effet de surprise étant donc estompé il n'enlève rien a la puissance de ce "Valeur Chair" dévastateur aux cris et couinements porcins dans tous recoins qui en fait un des disques les plus violent de cette année 2023 et qui élève encore Deadfuck sur la scéne death/grind (plus grindcore en définitive que vraiment death) qui est a se procurer comme l'était son prédécesseur "#Humanity".
+                            </Tabs.Panel>
+
+                            <Tabs.Panel value="Metallian" pl="xs">
+                                <div className="titrechro">
+                                    <p>Metallian Underground n°17</p>
+                                    <p>Auteur : Michaël Schmitt</p>
+                                    <p>Note : 5/6</p>
+                                </div>
+                                Après un premier album, #Humanité, les Lyonnais sont de retour avec un deuxième opus dont la violence, l'énergie et les compositions sont encore plus monstrueuses et dévastatrices. Les riffs ravageurs s'enchaînent avec une section rythmique intense et variée. Et que dire du chant de Diégo, à part que c'est sans doute l'un des meilleurs en France dans ce style, tout simplement !
                             </Tabs.Panel>
                         </Tabs>
                     </Tabs.Panel>
@@ -654,6 +682,20 @@ function Press() {
                     <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">Grind'N'Noizy</span></p>
                     <p>02/2023</p>
                     <a href="http://normandieinvasion.free.fr/images/PDF_GrindNNoizy/GrindNNoizy11.pdf" target="_blank" className="btn_interview">Voir l'interview</a>
+                </div>
+
+                <div className="cardinterview">
+                    <img src={miv} alt="" />
+                    <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">Metal In Veins</span></p>
+                    <p>22/09/2023</p>
+                    <a href="https://www.youtube.com/watch?v=aWaauQxpx94&ab_channel=MetalInVeins" target="_blank" className="btn_interview">Voir l'interview</a>
+                </div>
+
+                <div className="cardinterview">
+                    <img src={raca} alt="" />
+                    <p><span className="titreitv1">Interview de </span><br /><span className="titreitv2">Radio Canut Musik-etc</span></p>
+                    <p>24/09/2023</p>
+                    <a href="https://blogs.radiocanut.org/musik-etc/2023/09/24/musik-etc-du-24-septembre-2023-avec-deadfuck/" target="_blank" className="btn_interview">Voir l'interview</a>
                 </div>
             </div>
 

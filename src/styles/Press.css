@@ -193,11 +193,11 @@ h2{
 }
 
  .btn_interview:hover{
-    padding: 10px 12px;
-    margin: 10px 66px 5px;
+    /* padding: 10px 12px;
+    margin: 10px 66px 5px; */
     background: linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
     color: #4F400D;
-    border: #4F400D;
+    border: 1px solid #4F400D;
 } 
 
 
