@@ -41,6 +41,7 @@ function Press() {
                                 <Tabs.Tab value="Nonoise">Nonoise Nogood Webzine</Tabs.Tab>
                                 <Tabs.Tab value="Anteverse">Anteverse</Tabs.Tab>
                                 <Tabs.Tab value="Metallian">Metallian</Tabs.Tab>
+                                <Tabs.Tab value="ondeMetal">Une Onde de Metal</Tabs.Tab>
                             </Tabs.List>
 
                             <Tabs.Panel value="Wallabirzine" pl="xs">
@@ -104,6 +105,15 @@ function Press() {
                                     <p>Note : 5/6</p>
                                 </div>
                                 Après un premier album, #Humanité, les Lyonnais sont de retour avec un deuxième opus dont la violence, l'énergie et les compositions sont encore plus monstrueuses et dévastatrices. Les riffs ravageurs s'enchaînent avec une section rythmique intense et variée. Et que dire du chant de Diégo, à part que c'est sans doute l'un des meilleurs en France dans ce style, tout simplement !
+                            </Tabs.Panel>
+
+                            <Tabs.Panel value="ondeMetal" pl="xs">
+                                <div className="titrechro">
+                                    <p>Une Onde de Metal (Radio Balistiq)</p>
+                                    <p>Auteur : Michaël Vernet</p>
+                                    <p>Note : --</p>
+                                </div>
+                                "On va du côté de Lyon, on va retrouver Deadfuck, un groupe de Death Grind qui est composé de trois membres, donc c'est un trio, et ils nous font l'honneur de montrer que la scène Grind en france est en force, avec ce deuxième album intitulé "Valeur Chair". L'artwork de l'album est magnifique, mais le Death Grind qu'ils nous envoient est juste monstrueux. Technicité, brutalité, growl, en veux-tu en voilà. C'est servit avec un musicalité très propre, très carrée. Un véritable plaisir d'écouter Deadfuck."
                             </Tabs.Panel>
                         </Tabs>
                     </Tabs.Panel>
