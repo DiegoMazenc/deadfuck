@@ -42,6 +42,8 @@ function Press() {
                                 <Tabs.Tab value="Anteverse">Anteverse</Tabs.Tab>
                                 <Tabs.Tab value="Metallian">Metallian</Tabs.Tab>
                                 <Tabs.Tab value="ondeMetal">Une Onde de Metal</Tabs.Tab>
+                                <Tabs.Tab value="porteMetal">Aux Portes du Metal</Tabs.Tab>
+                                <Tabs.Tab value="NiME">Nightfall In Metal Earth</Tabs.Tab>
                             </Tabs.List>
 
                             <Tabs.Panel value="Wallabirzine" pl="xs">
@@ -114,6 +116,44 @@ function Press() {
                                     <p>Note : --</p>
                                 </div>
                                 "On va du côté de Lyon, on va retrouver Deadfuck, un groupe de Death Grind qui est composé de trois membres, donc c'est un trio, et ils nous font l'honneur de montrer que la scène Grind en france est en force, avec ce deuxième album intitulé "Valeur Chair". L'artwork de l'album est magnifique, mais le Death Grind qu'ils nous envoient est juste monstrueux. Technicité, brutalité, growl, en veux-tu en voilà. C'est servit avec un musicalité très propre, très carrée. Un véritable plaisir d'écouter Deadfuck."
+                            </Tabs.Panel>
+
+                            <Tabs.Panel value="porteMetal" pl="xs">
+                                <div className="titrechro">
+                                    <p>Aux Portes du Metal</p>
+                                    <p>Auteur : JeanMichHell</p>
+                                    <p>Note : 14/20</p>
+                                </div>
+                                Deadfuck est un trio (Guitare-Batterie-Chant) lyonnais qui a cherché à faire ses preuves sur scène avant tout, mais qui possède déjà dans son escarcelle un album #Humanity sorti en 2020 et deux EP Affliction en 2018 et Charlatan en 2022. Ce dernier EP étant préparatoire à leur nouvel album Valeur Chair que je vous présente aujourd’hui. Le groupe varie son style entre Grind et Death, et porte haut et fort les valeurs végétariennes. <br/><br/>
+                                Comme le groupe, qui propose douze titres en un peu plus de vingt minutes, je ne vais pas y aller par quatre chemins. Cet album transpire le mépris et le dégout de l’exploitation animal. Le groupe l’exprime aussi bien musicalement qu’avec une rage dingue dans le chant.<br/><br/>
+                                Le titre d’ouverture Diégèse débute mid-tempo et ne va cesser tout du long de faire monter l’intensité et le chanteur lui aussi monte en puissance en prenant un malin plaisir à utiliser l’ensemble des titres de l’album dans les lyrics dans ce morceau d’ouverture totalement à fleur de peau. L’enchainement avec Ecchymose nous dit tout de suite que le groupe ne va pas lâcher l’auditeur une seule seconde.<br/><br/>
+                                L’ensemble est assez direct même s’il existe quelques “subtilités” à l’univers de Deadfuck, les titres comme Apoptose et ses relents hardcore, Testimonium est son côté Death ou encore Génése qui ferait presque remuer du popotin, prouvent que le groupe ne fait pas que dans la violence pure. Mais elle existe aussi, il suffit de vous faire l’enchainement Pandémie, Traître, Grime et un des meilleurs titres de l’album Bétail pour être assurer d’avoir mal aux cervicales. Je mettrai un seul bémol au titre Maniaque et son intro "tout en douceur" qui sonne comme un clin d’œil à un des créateurs du Grind : Carcass.<br/><br/>
+                                Mon seul regret est que je trouve le chant trop présent, et que pour pouvoir apprécier également la musique, il me semble que quelques pauses s’imposent. Certes c’est inhérent au style, qu’il est difficile de faire passer un message en moins d’une minute trente et par conséquent il faut le faire passer vite. Mais pour ma part il y a un peu trop de crème par rapport aux choux.<br/><br/>
+                                Globalement Deadfuck est une belle découverte me concernant. Valeur Chaire est également une valeur sure du Grind hexagonale. Si vous êtes amateur de musique extrême vous trouverez forcément un bout de bonheur chez les Lyonnais.
+                            </Tabs.Panel>
+
+                            <Tabs.Panel value="NiME" pl="xs">
+                                <div className="titrechro">
+                                    <p>ightfall In Metal Earth</p>
+                                    <p>Auteur : REMISSA</p>
+                                    <p>Note : 4,5/5</p>
+                                </div>
+                                Vingt-et-une minutes. C’est le temps qu’il faudra aux Lyonnais de DEADFUCK pour vous désosser en entier, "Bit By Bit", et en douze lambeaux bien nets.<br/><br/>
+                                Mathématiquement, vous l'aurez déduit, les morceaux n’atteignent que rarement les deux minutes. Pourtant l'habileté de composition permet de construire une tension croissante : après un "Diégèse" introductif duquel les paroles sont parlées avec une haine grimpant crescendo et tirant jusqu’au scream, "Ecchymose" monte la cadence sur sa première moitié, et nous laisse penser que le trio a déjà atteint sa vitesse de croisière… avant un subreptice break et s’ensuivant d’une montée en intensité, bluffante, qui ne redescendra plus jamais jusqu’à la toute dernière seconde de l’album.<br/><br/>
+                                La brièveté d’un skeud n’est pas une tare en soi. Soit l’album est bon, et l’écoute en boucle n’en sera que davantage justifiée, soit l’album est à benner, auquel cas les souffrances seront abrégées plus rapidement. Dans le cas de "Valeur Chair", l’aisance des membres dans la composition donne l’impression que les titres sont vastes, à l’instar d’un développement de philo style "thèse-antithèse-synthèse-prothèse" qui n’entre pas dans une copie double. Exercice périlleux… et incontestablement réussi.<br/><br/>
+                                Le chant de Diégo, évoluant dans un grunt-squalé est d'une justesse et d'une agressivité sans commune mesure. Il parvient à débiter les paroles à une cadence exceptionnelle, sans tomber dans un phrasé-rappé qui aurait lassé sur la longueur. Ainsi, d'une oreille distraite, seuls les "bree-bree-bree" ne sont perceptibles, mais en creusant les paroles, l'effort de linguistique est à souligner, baignant dans un registre nihiliste et décrivant les errements d’une société à la dérive au travers d’une sémantique choisie minutieusement.<br/><br/>
+                                Pour accompagner cette déferlante vocale, les riffs, incisifs et variés, s’expriment librement grâce à un espace net laissé par les autres membres du groupe, se mettant ponctuellement en retrait pour augmenter l'impact de cette rythmique effrénée. Et évidemment, les blasts de batterie à la sauce Grindcore, tout en double pédale et avec un jeu de snare inlassable et cinglant viennent compléter ce tableau, déjà bien chargé de talent.<br/><br/>
+                                Doté de titres plus introspectifs ("Diégèse", "Bétail"), mais également de quelques bangers dimensionnés sur mesure pour organiser quelques bagarres fraternelles dans la fosse ("Charlatan", "Traître"), "Valeur Chair" est un album subtil dans sa violence, souhaitant passer un message fort au travers d’une justesse d’exécution indéniable.<br/><br/>
+                                À l’orée d’un CATTLE DECAPITATION, et n’ayant rien à envier à leurs homologues français de BENIGHTED, ce second album de DEADFUCK tape systématiquement juste, et la première écoute ne pourra pas vous laisser indifférent. Les suivantes non plus d’ailleurs.<br/><br/>
+                                "Indigestion sociale<br/>
+                                J’exècre ce monde de peine<br/>
+                                J’ai la haine de la haine<br/>
+                                Le seul instant qui inspire l’empathie<br/>
+                                C’est de boire des bières dans le pit"<br/><br/>
+                                Je ne sais pas vous, mais j’aime bien ce credo.<br/><br/>
+                                Note réelle : 4,5/5, on en redemande plus, et si certains titres pouvaient tirer sur le double ou le triple, j’en ferais une réelle indigestion par gourmandise.<br/><br/>
+                                Morceaux préférés : "Ecchymose", "Bétail", "Genèse".<br/><br/>
+                                Point pochette : très soignée, avec l’habile détail de la balance penchant vers les piécettes, soulignant le poids insignifiant de l’humanité… Merde moi qui critiquais mes profs de philosophie à tout surinterpréter !
                             </Tabs.Panel>
                         </Tabs>
                     </Tabs.Panel>
