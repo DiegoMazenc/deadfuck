@@ -48,13 +48,13 @@ const Home = () => {
 
                         <section className="tourdate">
                             <div className="localdate">
-                                <h4>Tue, SEPT 12, 2023</h4>
-                                <h5>Le Farmer, Lyon, France</h5>
-                                <h4>With : 3rd War Collapse (Brasil)</h4>
+                                <h4>Wed, FEB 14, 2024</h4>
+                                <h5>Rock'n'Eat, Lyon, France</h5>
+                                <h4>With : Festering Process, Pulsating Cerebral Slime</h4>
                             </div>
                             <div className="eventdate">
                                 <h4>FREE ENTRANCE</h4>
-                                <a href="https://www.facebook.com/events/9675963842473774/?ref=newsfeed" target="_blank">EVENT</a>
+                                <a href="https://www.facebook.com/events/1050126529571539/" target="_blank">EVENT</a>
                             </div>
                         </section>
 
