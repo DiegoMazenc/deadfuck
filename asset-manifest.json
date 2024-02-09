@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0601431.css",
-    "main.js": "/static/js/main.39fbb65c.js",
+    "main.js": "/static/js/main.b6ffdbf1.js",
     "static/js/787.ae5b6e57.chunk.js": "/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -41,6 +41,7 @@
     "static/media/facebook-rond.png": "/static/media/facebook-rond.2157fadd875db62b7c5e.png",
     "static/media/spotify-rond..png": "/static/media/spotify-rond..dc14dac537b0b1cb4ed2.png",
     "static/media/youtube-rond.png": "/static/media/youtube-rond.98247ce21c5d266d30f5.png",
+    "static/media/live14_02_2024.jpg": "/static/media/live14_02_2024.cb345f0ad1c4d55e5344.jpg",
     "static/media/itunes-rond..png": "/static/media/itunes-rond..5ef3e3a1f7d065a0ae28.png",
     "static/media/live22_05_2018.jpg": "/static/media/live22_05_2018.83e0fd82e0b157b099e9.jpg",
     "static/media/deezer-rond..png": "/static/media/deezer-rond..9f88c3b1e0c8b3c05e87.png",
@@ -58,11 +59,11 @@
     "static/media/grind-n-noizy.jpg": "/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/index.html",
     "main.c0601431.css.map": "/static/css/main.c0601431.css.map",
-    "main.39fbb65c.js.map": "/static/js/main.39fbb65c.js.map",
+    "main.b6ffdbf1.js.map": "/static/js/main.b6ffdbf1.js.map",
     "787.ae5b6e57.chunk.js.map": "/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0601431.css",
-    "static/js/main.39fbb65c.js"
+    "static/js/main.b6ffdbf1.js"
   ]
 }
