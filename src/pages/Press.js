@@ -61,6 +61,7 @@ function Press() {
                 <Tabs.Tab value="porteMetal">Aux Portes du Metal</Tabs.Tab>
                 <Tabs.Tab value="NiME">Nightfall In Metal Earth</Tabs.Tab>
                 <Tabs.Tab value="thrashocore">Thrashocore</Tabs.Tab>
+                <Tabs.Tab value="ObjectifMetal">Objectif Metal</Tabs.Tab>
               </Tabs.List>
 
               <Tabs.Panel value="Wallabirzine" pl="xs">
@@ -479,6 +480,16 @@ function Press() {
                 la surface - mais lorsque ledit bloc fonce à vive allure dans ta
                 direction, crois bien que tu chercheras à planquer tes miches
                 plutôt qu'à les compter. Merci les gars, c'est du nectar.
+              </Tabs.Panel>
+
+              <Tabs.Panel value="ObjectifMetal" pl="xs">
+                <div className="titrechro">
+                  <p>Objectif Metal</p>
+                  <p>Auteur : Dan</p>
+                  <p>Note : --</p>
+                </div>
+                Que tous les amateurs (trices) de Brutal Grind Death se lèvent ! Nous sommes en possession d'une petite pépite dédiée a ce style musical si particulier.<br/> DEADFUCK est l’œuvre de trois musiciens passionnés par une certaine beauté « Metal ». 92 titres d'une durée de 21 mn...... Mais non je déconne ! La durée totale est exacte, seule le nombre de titres changent, il est de 12. Sorti fraîchement chez nos amis de FRANCE, BLACK, DEATH, GRIND, label investisseur et fortement investi depuis quelques années sur le terrain du Metal Extrême.... (L'identification Extrême ne fait pas de nous des extrémistes, que cela s'entende !).<br/> Un chant, une guitare, une batterie et une basse fictive …....... Mais quelle dépense d'énergie, de bonnes énergies, ravigotantes et magiques. Énergie quand tu nous tiens !<br/> Le maître mot de ce « Valeur Chair » est un éloge revendicatif des exactions et aberrations humaines, notre cher humain tellement laid dans sa progression planétaire vide de sens. Nous sommes face avec DEADFUCK à un bon coup de savate (ou d'escarpin) dans la face.<br/> Du grand Grind Death donc  rempli d'appels porcins, de cris d'oiseaux et de glissements de terrain. Nous avons dorénavant l'honneur et l'avantage d'en profiter. Comme vous l'aurez compris, les mercenaires de DEADFUCK ne sont pas la pour enfiler des perles. L'écoute en vaut le détour.<br/><br/> 
+Dan Daniel Frederic pour OBJECTIF METAL
               </Tabs.Panel>
             </Tabs>
           </Tabs.Panel>
