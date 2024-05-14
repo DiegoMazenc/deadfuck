@@ -46,7 +46,7 @@ const Home = () => {
                     <div className="tour">
                         <h2>Next Show</h2>
 
-                        <section className="tourdate">
+                        {/* <section className="tourdate">
                             <div className="localdate">
                                 <h4>Wed, FEB 14, 2024</h4>
                                 <h5>Rock'n'Eat, Lyon, France</h5>
@@ -55,6 +55,18 @@ const Home = () => {
                             <div className="eventdate">
                                 <h4>FREE ENTRANCE</h4>
                                 <a href="https://www.facebook.com/events/1050126529571539/" target="_blank">EVENT</a>
+                            </div>
+                        </section> */}
+
+                        <section className="tourdate">
+                            <div className="localdate">
+                                <h4>-----</h4>
+                                <h5>-----</h5>
+                                <h4>-----</h4>
+                            </div>
+                            <div className="eventdate">
+                                <h4>-----</h4>
+                                <a href="#">----</a>
                             </div>
                         </section>
 
