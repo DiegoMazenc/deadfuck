@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0601431.css",
-    "main.js": "/static/js/main.b6ffdbf1.js",
+    "main.js": "/static/js/main.d9027e1c.js",
     "static/js/787.ae5b6e57.chunk.js": "/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -56,14 +56,15 @@
     "static/media/MetalInVeins.jpg": "/static/media/MetalInVeins.7008d9e1c7ea67053fae.jpg",
     "static/media/live10_07_2021.jpg": "/static/media/live10_07_2021.cf3f9e886f92c4f5d87c.jpg",
     "static/media/live16_02_2023.jpeg": "/static/media/live16_02_2023.d5b912c772fcfe249eec.jpeg",
+    "static/media/live23_03_2024.jpg": "/static/media/live23_03_2024.e1d1377ec91d787f1da0.jpg",
     "static/media/grind-n-noizy.jpg": "/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/index.html",
     "main.c0601431.css.map": "/static/css/main.c0601431.css.map",
-    "main.b6ffdbf1.js.map": "/static/js/main.b6ffdbf1.js.map",
+    "main.d9027e1c.js.map": "/static/js/main.d9027e1c.js.map",
     "787.ae5b6e57.chunk.js.map": "/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0601431.css",
-    "static/js/main.b6ffdbf1.js"
+    "static/js/main.d9027e1c.js"
   ]
 }
