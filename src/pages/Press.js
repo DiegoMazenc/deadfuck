@@ -7,6 +7,8 @@ import live18_09_2018 from "../img/live/live18_09_2018.jpg";
 import live10_07_2021 from "../img/live/live10_07_2021.jpg";
 import live16_09_2022 from "../img/live/live16_09_2022.jpg";
 import Live12_09_2023 from "../img/live/live12_09_2023.jpg";
+import Live16_02_2023 from "../img/live/live16_02_2023.jpeg";
+import Live14_02_2024 from "../img/live/live14_02_2024.jpg";
 import fbdg from "../img/logoFBDG trsprt.png";
 import lhn from "../img/la-horde-noire-2.jpg";
 import gnn from "../img/grind-n-noizy.jpg";
@@ -408,78 +410,88 @@ function Press() {
                 excuse tout !) et un recours franchement poussif aux pig squeals
                 (bon, j'ai découvert Devourment entre temps, ça aide à apprécier
                 l'exercice), je n'avais pas grand chose à lui reprocher. Une
-                bonne petite branlée, comme on les aime.<br/><br/>
-                 Trois ans plus tard, le
-                temps de nous remettre, nos Rhonalpins remettent le couvert et
-                passent, cette fois-ci, par la grande porte. Et ils le méritent.
-                Certains régressent ou se contentent d'une vitesse de croisière,
-                voire d'un surplace confortable - Deadfuck passe la cinquième et
-                éclate la barrière du péage. Que de points pris, et ce sur tous
-                les plans ! La technique, l'exécution, l'écriture (dans les
-                compositions comme les paroles), la production, le visuel... Je
-                m'attendais à un sympathique petit steak derrière la nuque, j'ai
-                eu droit à la planche cloutée. Un régal. Pas intégral, hein, je
-                reste un peine-à-jouir en la matière. Mais ces vingt-et-une
-                petites minutes se savourent avec plaisir pour qui goûte son
-                Death abâtardi de Grind - ou l'inverse ? Je sais plus.<br/><br/>
+                bonne petite branlée, comme on les aime.
+                <br />
+                <br />
+                Trois ans plus tard, le temps de nous remettre, nos Rhonalpins
+                remettent le couvert et passent, cette fois-ci, par la grande
+                porte. Et ils le méritent. Certains régressent ou se contentent
+                d'une vitesse de croisière, voire d'un surplace confortable -
+                Deadfuck passe la cinquième et éclate la barrière du péage. Que
+                de points pris, et ce sur tous les plans ! La technique,
+                l'exécution, l'écriture (dans les compositions comme les
+                paroles), la production, le visuel... Je m'attendais à un
+                sympathique petit steak derrière la nuque, j'ai eu droit à la
+                planche cloutée. Un régal. Pas intégral, hein, je reste un
+                peine-à-jouir en la matière. Mais ces vingt-et-une petites
+                minutes se savourent avec plaisir pour qui goûte son Death
+                abâtardi de Grind - ou l'inverse ? Je sais plus.
+                <br />
+                <br />
                 Visuellement, donc, c'est déjà le coup de foudre. Exit le
                 Photoshop un peu hasardeux des débuts, "Valeur Chair" se paie le
                 luxe d'un visuel magnifique, aussi classieux qu'évocateur -
                 laissant deviner la teneur des paroles, que je vous invite à
                 découvrir en dur ou en numérique. C'est en confiance qu'on lance
-                l'écoute.<br/><br/> Et en français soutenu, je crois qu'on appelle ça "se
+                l'écoute.
+                <br />
+                <br /> Et en français soutenu, je crois qu'on appelle ça "se
                 faire laver le cul". Putain, quel son ! Je comprends mieux
                 pourquoi le groupe n'a pas tari d'éloges sur le travail effectué
                 par le Convulsound, tant sur le mix que sur le master. Batterie,
                 guitare, chant, même la basse qui fait tapisserie : tout est
                 parfaitement à sa place, monstrueux, démesuré, obèse. Avec un
                 tel boulot fourni sur la composition, ç'aurait été dommage de ne
-                pas se taper un son à la hauteur de ses ambitions.<br/><br/> On est des
-                brutes, ouais, mais on ne va pas se contenter de tartiner sans
-                discontinuer pendant vingt minutes. "Valeur Chair" sait varier
-                son jeu, entre tracks dans l'agression la plus gratuite et
-                ralentissements conçus pour faire craquer quelques cervicales.
-                Que ce soit l'introduction "Diégèse" et ses tapis de double
-                cadençant les cordes en obésité morbide, où le démarrage de
-                "Testimonium", invraisemblable de lourdeur, les riffs de Chris
-                font mouche (presque) à chaque fois. Pétris d'influences que
-                l'on devinera au premier coup d'oreille (mes confrères l'ont
-                déjà largement évoqué dans leurs papiers), certes, mais quand
-                ces dernières sont aussi qualitatives, on ne va pas cracher dans
-                la soupe. L'ensemble est un mur, pur et simple, et les bonnes
-                idées ne manquent pas : les saillies de gorge de Diego à 0:19
-                sur "Apoptose", accompagnant un riffing bien cadencé sur une
-                batterie qui s'emballe; le mid-tempo Truchan-esque entamant
-                "Bétail"; "Maniaque" et ses deux mouvements, entre ouverture en
-                forme de chape de plomb et final tête dans le guidon... J'ai
-                déjà dit qu'on se régalait ? Chacun est parfait dans son rôle,
-                et nom de Dieu, ça joue. <br/><br/>"Valeur Chair" est globalement (très)
-                réussi, c'est une évidence dès la première écoute. Mais il est
-                lesté aux chevilles par quelques petites bricoles qui me font
-                immanquablement tiquer. Les squeals sont mieux utilisés (en tout
-                cas, ils me gênent moins), mais prennent parfois une tournure un
-                peu inattendue... Prenez un titre comme "Grime", par exemple. Le
-                bestiau démarre fort bien, rythmique bien street, accélérations
-                bienvenues, puis arrive la cinquantième seconde où j'ai
-                l'impression d'écouter du Gutalax - et rebelote à 1:07 qui nous
-                catapulte sur la scène de l'Obscene Extreme, entre deux
-                mongoliens avinés déguisés en dinosaures. Forcément, ça me fait
-                ricaner. Mais c'est assez symptomatique de ces quelques choix un
-                poil douteux qui tirent un ensemble carrément solide vers le
-                bas. Sur "Pandémie", par exemple, un équarrissage en règle
-                jusqu'à sa cinquante-sixième seconde, qui brise le rythme avec
-                une rythmique quasi-dansante, presque hors-sujet, avant de
-                repartir sur du pédalage sous EPO. Et "Traître", de la même
-                manière, qui voit débarquer comme un cheveu sur la soupe ce
-                break en tapping sur lit de bree-bree (à 0:26 et 1:00),
-                provoquant un lever de sourcil mi-narquois, mi-circonspect. Mais
-                je chipote.<br/><br/> Et si je chipote, c'est parce qu'il faut bien
-                trouver quelque chose à redire au sujet de ce "Valeur Chair".
-                Deadfuck accouche d'un excellent opus, homogène, imposant - un
-                vrai bloc de béton armé. Ouais, il y a bien quelques lézardes à
-                la surface - mais lorsque ledit bloc fonce à vive allure dans ta
-                direction, crois bien que tu chercheras à planquer tes miches
-                plutôt qu'à les compter. Merci les gars, c'est du nectar.
+                pas se taper un son à la hauteur de ses ambitions.
+                <br />
+                <br /> On est des brutes, ouais, mais on ne va pas se contenter
+                de tartiner sans discontinuer pendant vingt minutes. "Valeur
+                Chair" sait varier son jeu, entre tracks dans l'agression la
+                plus gratuite et ralentissements conçus pour faire craquer
+                quelques cervicales. Que ce soit l'introduction "Diégèse" et ses
+                tapis de double cadençant les cordes en obésité morbide, où le
+                démarrage de "Testimonium", invraisemblable de lourdeur, les
+                riffs de Chris font mouche (presque) à chaque fois. Pétris
+                d'influences que l'on devinera au premier coup d'oreille (mes
+                confrères l'ont déjà largement évoqué dans leurs papiers),
+                certes, mais quand ces dernières sont aussi qualitatives, on ne
+                va pas cracher dans la soupe. L'ensemble est un mur, pur et
+                simple, et les bonnes idées ne manquent pas : les saillies de
+                gorge de Diego à 0:19 sur "Apoptose", accompagnant un riffing
+                bien cadencé sur une batterie qui s'emballe; le mid-tempo
+                Truchan-esque entamant "Bétail"; "Maniaque" et ses deux
+                mouvements, entre ouverture en forme de chape de plomb et final
+                tête dans le guidon... J'ai déjà dit qu'on se régalait ? Chacun
+                est parfait dans son rôle, et nom de Dieu, ça joue. <br />
+                <br />
+                "Valeur Chair" est globalement (très) réussi, c'est une évidence
+                dès la première écoute. Mais il est lesté aux chevilles par
+                quelques petites bricoles qui me font immanquablement tiquer.
+                Les squeals sont mieux utilisés (en tout cas, ils me gênent
+                moins), mais prennent parfois une tournure un peu inattendue...
+                Prenez un titre comme "Grime", par exemple. Le bestiau démarre
+                fort bien, rythmique bien street, accélérations bienvenues, puis
+                arrive la cinquantième seconde où j'ai l'impression d'écouter du
+                Gutalax - et rebelote à 1:07 qui nous catapulte sur la scène de
+                l'Obscene Extreme, entre deux mongoliens avinés déguisés en
+                dinosaures. Forcément, ça me fait ricaner. Mais c'est assez
+                symptomatique de ces quelques choix un poil douteux qui tirent
+                un ensemble carrément solide vers le bas. Sur "Pandémie", par
+                exemple, un équarrissage en règle jusqu'à sa cinquante-sixième
+                seconde, qui brise le rythme avec une rythmique quasi-dansante,
+                presque hors-sujet, avant de repartir sur du pédalage sous EPO.
+                Et "Traître", de la même manière, qui voit débarquer comme un
+                cheveu sur la soupe ce break en tapping sur lit de bree-bree (à
+                0:26 et 1:00), provoquant un lever de sourcil mi-narquois,
+                mi-circonspect. Mais je chipote.
+                <br />
+                <br /> Et si je chipote, c'est parce qu'il faut bien trouver
+                quelque chose à redire au sujet de ce "Valeur Chair". Deadfuck
+                accouche d'un excellent opus, homogène, imposant - un vrai bloc
+                de béton armé. Ouais, il y a bien quelques lézardes à la surface
+                - mais lorsque ledit bloc fonce à vive allure dans ta direction,
+                crois bien que tu chercheras à planquer tes miches plutôt qu'à
+                les compter. Merci les gars, c'est du nectar.
               </Tabs.Panel>
 
               <Tabs.Panel value="ObjectifMetal" pl="xs">
@@ -488,8 +500,33 @@ function Press() {
                   <p>Auteur : Dan</p>
                   <p>Note : --</p>
                 </div>
-                Que tous les amateurs (trices) de Brutal Grind Death se lèvent ! Nous sommes en possession d'une petite pépite dédiée a ce style musical si particulier.<br/> DEADFUCK est l’œuvre de trois musiciens passionnés par une certaine beauté « Metal ». 92 titres d'une durée de 21 mn...... Mais non je déconne ! La durée totale est exacte, seule le nombre de titres changent, il est de 12. Sorti fraîchement chez nos amis de FRANCE, BLACK, DEATH, GRIND, label investisseur et fortement investi depuis quelques années sur le terrain du Metal Extrême.... (L'identification Extrême ne fait pas de nous des extrémistes, que cela s'entende !).<br/> Un chant, une guitare, une batterie et une basse fictive …....... Mais quelle dépense d'énergie, de bonnes énergies, ravigotantes et magiques. Énergie quand tu nous tiens !<br/> Le maître mot de ce « Valeur Chair » est un éloge revendicatif des exactions et aberrations humaines, notre cher humain tellement laid dans sa progression planétaire vide de sens. Nous sommes face avec DEADFUCK à un bon coup de savate (ou d'escarpin) dans la face.<br/> Du grand Grind Death donc  rempli d'appels porcins, de cris d'oiseaux et de glissements de terrain. Nous avons dorénavant l'honneur et l'avantage d'en profiter. Comme vous l'aurez compris, les mercenaires de DEADFUCK ne sont pas la pour enfiler des perles. L'écoute en vaut le détour.<br/><br/> 
-Dan Daniel Frederic pour OBJECTIF METAL
+                Que tous les amateurs (trices) de Brutal Grind Death se lèvent !
+                Nous sommes en possession d'une petite pépite dédiée a ce style
+                musical si particulier.
+                <br /> DEADFUCK est l’œuvre de trois musiciens passionnés par
+                une certaine beauté « Metal ». 92 titres d'une durée de 21
+                mn...... Mais non je déconne ! La durée totale est exacte, seule
+                le nombre de titres changent, il est de 12. Sorti fraîchement
+                chez nos amis de FRANCE, BLACK, DEATH, GRIND, label investisseur
+                et fortement investi depuis quelques années sur le terrain du
+                Metal Extrême.... (L'identification Extrême ne fait pas de nous
+                des extrémistes, que cela s'entende !).
+                <br /> Un chant, une guitare, une batterie et une basse fictive
+                …....... Mais quelle dépense d'énergie, de bonnes énergies,
+                ravigotantes et magiques. Énergie quand tu nous tiens !<br /> Le
+                maître mot de ce « Valeur Chair » est un éloge revendicatif des
+                exactions et aberrations humaines, notre cher humain tellement
+                laid dans sa progression planétaire vide de sens. Nous sommes
+                face avec DEADFUCK à un bon coup de savate (ou d'escarpin) dans
+                la face.
+                <br /> Du grand Grind Death donc rempli d'appels porcins, de
+                cris d'oiseaux et de glissements de terrain. Nous avons
+                dorénavant l'honneur et l'avantage d'en profiter. Comme vous
+                l'aurez compris, les mercenaires de DEADFUCK ne sont pas la pour
+                enfiler des perles. L'écoute en vaut le détour.
+                <br />
+                <br />
+                Dan Daniel Frederic pour OBJECTIF METAL
               </Tabs.Panel>
             </Tabs>
           </Tabs.Panel>
@@ -896,8 +933,14 @@ Dan Daniel Frederic pour OBJECTIF METAL
               <Tabs.Tab value="16/09/2022">
                 <div className="dateLR">16/09/2022</div>
               </Tabs.Tab>
+              <Tabs.Tab value="16/02/2023">
+                <div className="dateLR">16/02/2023</div>
+              </Tabs.Tab>
               <Tabs.Tab value="12/09/2023">
                 <div className="dateLR">12/09/2023</div>
+              </Tabs.Tab>
+              <Tabs.Tab value="14/02/2024">
+                <div className="dateLR">14/02/2024</div>
               </Tabs.Tab>
             </Tabs.List>
           </div>
@@ -1091,6 +1134,42 @@ Dan Daniel Frederic pour OBJECTIF METAL
             </Tabs>
           </Tabs.Panel>
 
+          <Tabs.Panel value="16/02/2023" pt="xs">
+            <Tabs
+              color="yellow"
+              variant="pills"
+              radius="md"
+              orientation="vertical"
+              defaultValue="Pavillon 666"
+            >
+              <Tabs.List>
+                <Tabs.Tab value="Pavillon 666">Pavillon 666</Tabs.Tab>
+              </Tabs.List>
+
+              <Tabs.Panel value="Pavillon 666" pl="xs">
+                <div className="titrechro">
+                  <p>Pavillon 666</p>
+                  <p>Auteur : Black.Roger</p>
+                </div>
+                <div className="articleLR">
+                  <div className="imgLR">
+                    <img src={Live16_02_2023} alt="" />
+                  </div>
+                  <div className="textLR">
+                    <h3 className="titreLR">
+                      DEADFUCK + BUTCHER'S HOOK + EXCEPT ONE <br />
+                      12/09/2023 À LYON, FRANCE (ROCK N EAT)
+                    </h3>
+                    <hr />
+                    Alors, avec les Lyonnais de DEADFUCK vous vous doutez bien qu'avec un nom de groupe pareil nous n'allons pas avoir droit à de la musique de chambre. Ce sera comme il est dit dans l'event de la soirée, du death/grind, du blast, du gruik et du riff.
+                    <br />
+                    Leur set-list parle d'elle même entre « ecchymose », « parasite », « catharsis » et autre « testimonuium », nous en avons pris plein la « g...le » je ne vous fais pas un dessin. Et pourtant le public de ce soir est assez « figè », dur le faire remuer ce petit monde, mais en fin de show à l'appel du frontman ce fus chaud et remuant, quand même !
+                  </div>
+                </div>
+              </Tabs.Panel>
+            </Tabs>
+          </Tabs.Panel>
+
           <Tabs.Panel value="12/09/2023" pt="xs">
             <Tabs
               color="yellow"
@@ -1143,6 +1222,56 @@ Dan Daniel Frederic pour OBJECTIF METAL
                     plombée, aargh !<br />
                     Bonne ambiance dans les lieux où l'on s'envoie en l'air
                     aussi, c'est vous dire, quel set !
+                  </div>
+                </div>
+              </Tabs.Panel>
+            </Tabs>
+          </Tabs.Panel>
+
+          <Tabs.Panel value="14/02/2024" pt="xs">
+            <Tabs
+              color="yellow"
+              variant="pills"
+              radius="md"
+              orientation="vertical"
+              defaultValue="Pavillon 666"
+            >
+              <Tabs.List>
+                <Tabs.Tab value="Pavillon 666">Pavillon 666</Tabs.Tab>
+              </Tabs.List>
+
+              <Tabs.Panel value="Pavillon 666" pl="xs">
+                <div className="titrechro">
+                  <p>Pavillon 666</p>
+                  <p>Auteur : Black.Roger</p>
+                </div>
+                <div className="articleLR">
+                  <div className="imgLR">
+                    <img src={Live14_02_2024} alt="" />
+                  </div>
+                  <div className="textLR">
+                    <h3 className="titreLR">
+                      DEADFUCK + FESTERING PROCESS + PULSATING CEREBRAL SLIME{" "}
+                      <br />
+                      14/02/2024 À LYON, FRANCE (ROCK N EAT)
+                    </h3>
+                    <hr />
+                    C'est le trio Lyonnais DEADFUCK qui prend la suite et va
+                    maintenant « faire parler la poudre » avec force rage et
+                    persuasion.
+                    <br />
+                    Avec à son actif l'album de 2020 « Humanity », deux Eps «
+                    Affliction » (2018) et «« Charlatan » (2022) et maintenant
+                    l'album paru fin 2023 « Valeur Chair », nos « gones » nous
+                    collent contre les murs en « live » c'est certain.
+                    <br />
+                    C'est violent certainement mais aussi ambiancé parfois afin
+                    de vous permettre de mieux respirer car durant tout le set
+                    et même en rappel le trio de nous fait pas de cadeau
+                    flirtant parfois avec un certain hardcore, pourquoi pas ! Du
+                    coup nous avons aimé encore une fois la prestation de ce
+                    trio qui monte, qui monte dans les escaliers du grind
+                    frenchie, bravo les gars ce fus super cool de vous revoir !
                   </div>
                 </div>
               </Tabs.Panel>
