@@ -58,20 +58,17 @@ const Bio = () => {
             <div className="bio">
                 <p>Formé en 2017 à Lyon, Deadfuck est un trio de Death/Grind: <span className="motimportant">Chris</span> (guitare),<span className="motimportant"> Diégo</span> (chant) et <span className="motimportant">Antoine</span> (batterie).
                 </p><br />
-                <p> Notre nom a été choisi pour attirer l’attention, offenser; nulle envie d’être “des bourrins qui
-                    parlent de gore”. Au contraire, au même titre qu’un Dying Fetus, nous avons choisi ce nom car il
-                    choque, il interpelle, et attire l’attention sur nos paroles, qui ne sont pas “gore”, mais parlent
+                <p> Deadfuck est un nom ayant été choisi pour attirer l’attention, offenser; nulle envie d’être “des bourrins qui
+                    parlent de gore”. Au contraire, au même titre qu’un Dying Fetus, ce nom est choisi car il
+                    choque, il interpelle, et attire l’attention sur les paroles, qui ne sont pas “gore”, mais parlent
                     de thèmes sérieux: la pédophilie (“Innocence”), l’exutoire au travers de la musique
                     (“Catharsis”), le racisme (“Chroma”)... avec un sens presque “poétique” dans la formulation des
                     termes.</p><br />
-                <p>Nous avons sorti notre 1er EP “<span className="motimportant">Affliction</span>” en Septembre 2018 , suivi du premier album,
-                    “<span className="motimportant">#Humanité</span>” en Mars 2020, et d’un nouvel EP « <span className="motimportant">Charlatan </span>» en 2022. Le
-                    second album “<span className="motimportant">Valeur Chair</span>” est en préparation pour une sortie 2023. Nos principes de
+                <p>Après avoir sorti un 1er EP “<span className="motimportant">Affliction</span>” en Septembre 2018 , suivi du premier album,
+                    “<span className="motimportant">#Humanité</span>” en Mars 2020, et d’un nouvel EP « <span className="motimportant">Charlatan </span>» en 2022, en 2023, Deadfuck signe avec le label <span className="motimportant">France, Black, Death, Grind</span> et sortira en Septembre un second album “<span className="motimportant">Valeur Chair</span>”. Les principes de
                     base en matière de composition sont: du blast, du gruik, et l’envie de surprendre l’auditeur en
                     cassant le plus souvent possible nos structures de chansons.</p><br />
-                <p>Nous sommes un groupe de live avant tout, et adorons nous produire sur scène. Plus d’une vingtaine de
-                    concerts à notre actif, énergiques, virulentes et passionnées, et nous sommes toujours à
-                    l’écoute de propositions de nouvelles dates.</p>
+                <p>Deadfuck un groupe de live avant tout, et aime se produire sur scène. Avec plusieurs concerts à son actif, énergiques, virulentes et passionnées, toujours à l’écoute de propositions de nouvelles dates.</p>
             </div>
         </section>
         <section>
