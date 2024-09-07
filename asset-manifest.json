@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0601431.css",
-    "main.js": "/static/js/main.84dab8d5.js",
+    "main.js": "/static/js/main.28402ed9.js",
     "static/js/787.ae5b6e57.chunk.js": "/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -18,6 +18,7 @@
     "static/media/live19_05_2023.jpeg": "/static/media/live19_05_2023.f33b61f086b94bd43ff7.jpeg",
     "static/media/live17_05_2023.jpg": "/static/media/live17_05_2023.a10befea9bc6f0f76c8d.jpg",
     "static/media/banniere-music.png": "/static/media/banniere-music.5d39f6fc949b335f77e1.png",
+    "static/media/live31_08_2024.jpg": "/static/media/live31_08_2024.ecbdf6583b81c89043e8.jpg",
     "static/media/live10_11_2017.jpg": "/static/media/live10_11_2017.f930b25a346325ff29b8.jpg",
     "static/media/Logo_v2_transparent.png": "/static/media/Logo_v2_transparent.72251d376d52a6d57450.png",
     "static/media/live27_04_2018.jpg": "/static/media/live27_04_2018.d59cdc6bb432f3b38554.jpg",
@@ -60,11 +61,11 @@
     "static/media/grind-n-noizy.jpg": "/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/index.html",
     "main.c0601431.css.map": "/static/css/main.c0601431.css.map",
-    "main.84dab8d5.js.map": "/static/js/main.84dab8d5.js.map",
+    "main.28402ed9.js.map": "/static/js/main.28402ed9.js.map",
     "787.ae5b6e57.chunk.js.map": "/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0601431.css",
-    "static/js/main.84dab8d5.js"
+    "static/js/main.28402ed9.js"
   ]
 }
