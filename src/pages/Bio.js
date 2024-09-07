@@ -32,6 +32,7 @@ import Live19_05_2023 from '../img/live/live19_05_2023.jpeg';
 import Live12_09_2023 from '../img/live/live12_09_2023.jpg';
 import Live14_02_2024 from '../img/live/live14_02_2024.jpg';
 import Live23_03_2024 from '../img/live/live23_03_2024.jpg';
+import Live31_08_2024 from '../img/live/live31_08_2024.jpg';
 import TechSheet from '../img/Deadfuck-Fiche-Technique.pdf';
 
 
@@ -116,6 +117,7 @@ const Bio = () => {
                 <h2>LIVES</h2>
                 <div className="livehistory">
                     <div className="liveyear"> 
+                        <img src={Live31_08_2024} alt="" />
                         <img src={Live23_03_2024} alt="" />
                         <div className="live2">
                             <img src={Live14_02_2024} alt="" />                     

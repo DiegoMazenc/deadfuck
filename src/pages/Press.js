@@ -9,6 +9,7 @@ import live16_09_2022 from "../img/live/live16_09_2022.jpg";
 import Live12_09_2023 from "../img/live/live12_09_2023.jpg";
 import Live16_02_2023 from "../img/live/live16_02_2023.jpeg";
 import Live14_02_2024 from "../img/live/live14_02_2024.jpg";
+import Live31_08_2024 from "../img/live/live31_08_2024.jpg";
 import fbdg from "../img/logoFBDG trsprt.png";
 import lhn from "../img/la-horde-noire-2.jpg";
 import gnn from "../img/grind-n-noizy.jpg";
@@ -942,6 +943,9 @@ function Press() {
               <Tabs.Tab value="14/02/2024">
                 <div className="dateLR">14/02/2024</div>
               </Tabs.Tab>
+              <Tabs.Tab value="31/08/2024">
+                <div className="dateLR">31/08/2024</div>
+              </Tabs.Tab>
             </Tabs.List>
           </div>
 
@@ -1272,6 +1276,41 @@ function Press() {
                     coup nous avons aimé encore une fois la prestation de ce
                     trio qui monte, qui monte dans les escaliers du grind
                     frenchie, bravo les gars ce fus super cool de vous revoir !
+                  </div>
+                </div>
+              </Tabs.Panel>
+            </Tabs>
+          </Tabs.Panel>
+
+          <Tabs.Panel value="31/08/2024" pt="xs">
+            <Tabs
+              color="yellow"
+              variant="pills"
+              radius="md"
+              orientation="vertical"
+              defaultValue="Thrashocore"
+            >
+              <Tabs.List>
+                <Tabs.Tab value="Thrashocore">Thrashocore</Tabs.Tab>
+              </Tabs.List>
+
+              <Tabs.Panel value="Thrashocore" pl="xs">
+                <div className="titrechro">
+                  <p>Thrashocore</p>
+                  <p>Auteur : Lesta</p>
+                </div>
+                <div className="articleLR">
+                  <div className="imgLR">
+                    <img src={Live31_08_2024} alt="" />
+                  </div>
+                  <div className="textLR">
+                    <h3 className="titreLR">
+                      ARRONVILLE OPEN AIR 2024{" "}
+                      <br />
+                      31/08/2024 À ARRONVILLE, FRANCE
+                    </h3>
+                    <hr />
+                    L’écoute à la maison de « Valeur chair » (leur 2ème album dont on souffle la 1ère bougie) m’avait franchement donné envie de découvrir ces Lyonnais en live. Le trio est composé d’un batteur, d’un guitariste et d’un chanteur uniquement, car le bassiste ne servirait à rien ;-). Ça vaut d’ailleurs quelques blagues (« Il est où le bassiste ? ») à l’instant où les artistes s’installent.<br/> Après un petit réglage, la purée est envoyée et c’est parti pour un bon gros son Death-grind qui alimente un pogo quasi continu, manquant de peu de se terminer en lutte dans le sol semi-boueux. Mais il en faut plus pour les DEADFUCK (ça veut dire quoi en fait leur nom de groupe ?) qui lancent une innovation : le wall of Caddie ! Au cas où il faille expliquer, ce sont deux équipes (composées d’un gars dedans et d’un autre qui pousse) de chaque côté de la fosse qui se foncent dessus au signal sonore ! Ça fait son effet, il y a même un slam peu après.<br/> L’autre anecdote est le passage devant la scène d’un mec qui se défroque pour nous montrer son cul. Est-ce pour cette raison que GRUIIIIK a posté sur la page Facebook de l’événement que l’Arronfest, c’est là « où les contes de fées deviennent des comptes de fesses » ?<br/> En parlant des autres formations, je veux aussi mentionner l’intervention du vocaliste de b.0g-daN(OF2) CONSPIRACY, invité sur un des derniers titres.<br/> C’était peut-être l’ultime de la setlist initialement prévue mais le succès est tel qu’il y a 3 rappels. Il est vrai que c’est incroyablement intense et brutal, la branlée du festival (ils en font trembler la tonnelle) ! On aimerait les voir plus souvent à Paris (si des orgas nous lisent…).
                   </div>
                 </div>
               </Tabs.Panel>
