@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0601431.css",
-    "main.js": "/static/js/main.28402ed9.js",
+    "main.js": "/static/js/main.7453cd58.js",
     "static/js/787.ae5b6e57.chunk.js": "/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -14,6 +14,7 @@
     "static/media/live07_01_2022.jpg": "/static/media/live07_01_2022.8a09c4ff6614152daaa1.jpg",
     "static/media/banniere_logo_2.0.jpg": "/static/media/banniere_logo_2.0.4fecfed49d8bf4e80538.jpg",
     "static/media/logoFBDG trsprt.png": "/static/media/logoFBDG trsprt.90c5acd608d8244fc94f.png",
+    "static/media/live19_10_2024.jpg": "/static/media/live19_10_2024.9b19aaf38653b04a5a26.jpg",
     "static/media/BanniereVC.jpg": "/static/media/BanniereVC.42a863a3422cd14a231a.jpg",
     "static/media/live19_05_2023.jpeg": "/static/media/live19_05_2023.f33b61f086b94bd43ff7.jpeg",
     "static/media/live17_05_2023.jpg": "/static/media/live17_05_2023.a10befea9bc6f0f76c8d.jpg",
@@ -61,11 +62,11 @@
     "static/media/grind-n-noizy.jpg": "/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/index.html",
     "main.c0601431.css.map": "/static/css/main.c0601431.css.map",
-    "main.28402ed9.js.map": "/static/js/main.28402ed9.js.map",
+    "main.7453cd58.js.map": "/static/js/main.7453cd58.js.map",
     "787.ae5b6e57.chunk.js.map": "/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0601431.css",
-    "static/js/main.28402ed9.js"
+    "static/js/main.7453cd58.js"
   ]
 }
