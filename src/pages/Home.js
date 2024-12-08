@@ -46,39 +46,27 @@ const Home = () => {
                     <div className="tour">
                         <h2>Next Show</h2>
 
-                         <section className="tourdate">
-                            <div className="localdate">
-                                <h4>sat, OCT 19, 2024</h4>
-                                <h5>Rock'n'Eat, Lyon, France</h5>
-                                <h4>With : The Soul Of Bushido, AOTB</h4>
-                            </div>
-                            <div className="eventdate">
-                                <h4>FREE ENTRANCE</h4>
-                                <a href="https://www.facebook.com/events/1584463648773648/?ref=newsfeed&locale=fr_FR" target="_blank">EVENT</a>
-                            </div>
-                        </section>
-
                         <section className="tourdate">
                             <div className="localdate">
                                 <h4>sat, DEC 14, 2024</h4>
-                                <h5>REVEALED SOON, France</h5>
-                                <h4>With : REVEALED SOON</h4>
+                                <h5>Raymonde, Clermont-Ferrand, France</h5>
+                                <h4>With : Nevrosys, No Way Out</h4>
                             </div>
                             <div className="eventdate">
-                                <h4>------</h4>
-                                <a href="#" target="_blank">EVENT</a>
+                                <h4>PAF : 5€</h4>
+                                <a href="https://www.facebook.com/events/2121265754975883?locale=fr_FR" target="_blank">EVENT</a>
                             </div>
                         </section>
 
                         <section className="tourdate">
                             <div className="localdate">
                                 <h4>sat, JAN 04, 2025</h4>
-                                <h5>REVEALED SOON, France</h5>
-                                <h4>With : REVEALED SOON</h4>
+                                <h5>Rock'N'Eat, Lyon, France</h5>
+                                <h4>With : Asilian, StabWound, Upper Decker</h4>
                             </div>
                             <div className="eventdate">
-                                <h4>------</h4>
-                                <a href="#" target="_blank">EVENT</a>
+                                <h4>FREE</h4>
+                                <a href="https://www.facebook.com/events/8637389516375652" target="_blank">EVENT</a>
                             </div>
                         </section>
 
@@ -94,7 +82,7 @@ const Home = () => {
                             </div>
                         </section>
 
-                        {/*
+                        
                         <section className="tourdate">
                             <div className="localdate">
                                 <h4>-----</h4>
@@ -105,7 +93,7 @@ const Home = () => {
                                 <h4>-----</h4>
                                 <a href="#">----</a>
                             </div>
-                        </section>*/}
+                        </section>
 
                       
                     </div>
