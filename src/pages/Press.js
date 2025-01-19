@@ -10,6 +10,7 @@ import Live12_09_2023 from "../img/live/live12_09_2023.jpg";
 import Live16_02_2023 from "../img/live/live16_02_2023.jpeg";
 import Live14_02_2024 from "../img/live/live14_02_2024.jpg";
 import Live31_08_2024 from "../img/live/live31_08_2024.jpg";
+import Live04_01_2025 from "../img/live/live04_01_2025.jpg";
 import fbdg from "../img/logoFBDG trsprt.png";
 import lhn from "../img/la-horde-noire-2.jpg";
 import gnn from "../img/grind-n-noizy.jpg";
@@ -946,6 +947,9 @@ function Press() {
               <Tabs.Tab value="31/08/2024">
                 <div className="dateLR">31/08/2024</div>
               </Tabs.Tab>
+              <Tabs.Tab value="04/01/2025">
+                <div className="dateLR">04/01/2025</div>
+              </Tabs.Tab>
             </Tabs.List>
           </div>
 
@@ -1312,6 +1316,40 @@ function Press() {
                     <hr />
                     L’écoute à la maison de « Valeur chair » (leur 2ème album dont on souffle la 1ère bougie) m’avait franchement donné envie de découvrir ces Lyonnais en live. Le trio est composé d’un batteur, d’un guitariste et d’un chanteur uniquement, car le bassiste ne servirait à rien ;-). Ça vaut d’ailleurs quelques blagues (« Il est où le bassiste ? ») à l’instant où les artistes s’installent.<br/> Après un petit réglage, la purée est envoyée et c’est parti pour un bon gros son Death-grind qui alimente un pogo quasi continu, manquant de peu de se terminer en lutte dans le sol semi-boueux. Mais il en faut plus pour les DEADFUCK (ça veut dire quoi en fait leur nom de groupe ?) qui lancent une innovation : le wall of Caddie ! Au cas où il faille expliquer, ce sont deux équipes (composées d’un gars dedans et d’un autre qui pousse) de chaque côté de la fosse qui se foncent dessus au signal sonore ! Ça fait son effet, il y a même un slam peu après.<br/> L’autre anecdote est le passage devant la scène d’un mec qui se défroque pour nous montrer son cul. Est-ce pour cette raison que GRUIIIIK a posté sur la page Facebook de l’événement que l’Arronfest, c’est là « où les contes de fées deviennent des comptes de fesses » ?<br/> En parlant des autres formations, je veux aussi mentionner l’intervention du vocaliste de b.0g-daN(OF2) CONSPIRACY, invité sur un des derniers titres.<br/> C’était peut-être l’ultime de la setlist initialement prévue mais le succès est tel qu’il y a 3 rappels. Il est vrai que c’est incroyablement intense et brutal, la branlée du festival (ils en font trembler la tonnelle) ! On aimerait les voir plus souvent à Paris (si des orgas nous lisent…).
                   </div>
+                </div>
+              </Tabs.Panel>
+            </Tabs>
+          </Tabs.Panel>
+
+          <Tabs.Panel value="04/01/2025" pt="xs">
+            <Tabs
+              color="yellow"
+              variant="pills"
+              radius="md"
+              orientation="vertical"
+              defaultValue="Pavillon 666"
+            >
+              <Tabs.List>
+                <Tabs.Tab value="Pavillon 666">Pavillon 666</Tabs.Tab>
+              </Tabs.List>
+
+              <Tabs.Panel value="Pavillon 666" pl="xs">
+                <div className="titrechro">
+                  <p>Pavillon 666</p>
+                  <p>Auteur : Roger Chirpaz</p>
+                </div>
+                <div className="articleLR">
+                  <div className="imgLR">
+                    <img src={Live04_01_2025} alt="" />
+                  </div>
+                  <div className="textLR">
+                    <h3 className="titreLR">
+                      LA SOIREE DE L'EXTREME FBDG{" "}
+                      <br />
+                      04/01/2025 AU ROCK'N'EAT, LYON, FRANCE
+                    </h3>
+                    <hr />
+                    Allez hop, on suit avec le trio infernal Lyonnais DEADFUCK plus grind que death, mais, à ce moment là nous en avons pris plein la « g...le » d'entrée de jeu. Pas de répit, pas de temps mort, on s'arrache les godasses dans le pit, on sort ses muscles ce soir, ça va chauffer. Un invité de groupe ami vient jeter de l'huile sur le feu aussi. Et pour finir le chanteur prend son bain de foule et invite tout le monde à venir sur scène à la Blockheads vous m'avez compris. Ce fus donc un direct « in your face », Deadfuck ça promet, c'est de la bonne à n'en pas douter, amen !                  </div>
                 </div>
               </Tabs.Panel>
             </Tabs>

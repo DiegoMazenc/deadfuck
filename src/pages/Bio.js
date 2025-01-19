@@ -36,7 +36,7 @@ import Live31_08_2024 from '../img/live/live31_08_2024.jpg';
 import Live19_10_2024 from '../img/live/live19_10_2024.jpg';
 import Live14_12_2024 from '../img/live/live14_12_2024.jpg';
 import Live04_01_2025 from '../img/live/live04_01_2025.jpg';
-import TechSheet from '../img/Deadfuck-Fiche-Technique.pdf';
+import TechSheet from '../img/Rider-TechSheet-DEADFUCK2025.pdf';
 
 
 
