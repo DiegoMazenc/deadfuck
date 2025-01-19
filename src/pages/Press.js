@@ -1441,6 +1441,23 @@ function Press() {
             Voir l'interview
           </a>
         </div>
+
+        <div className="cardinterview">
+          <img src={fbdg} alt="" className="img_fbdg" />
+          <p>
+            <span className="titreitv1">Interview de </span>
+            <br />
+            <span className="titreitv2">France, Black, Death, Grind</span>
+          </p>
+          <p>04/01/2025</p>
+          <a
+            href="https://www.youtube.com/watch?v=pvJV4h4ZFnM"
+            target="_blank"
+            className="btn_interview"
+          >
+            Voir l'interview
+          </a>
+        </div>
       </div>
     </div>
   );
