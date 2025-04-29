@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0601431.css",
-    "main.js": "/static/js/main.f5f86f50.js",
+    "main.css": "/static/css/main.69421e9b.css",
+    "main.js": "/static/js/main.1d2ff7e7.js",
     "static/js/787.ae5b6e57.chunk.js": "/static/js/787.ae5b6e57.chunk.js",
     "static/media/live06_06_2019.jpg": "/static/media/live06_06_2019.a561a1b36eed15cfaf9d.jpg",
     "static/media/live13_06_2019.jpg": "/static/media/live13_06_2019.4b2ad19b168f49eb4ad7.jpg",
@@ -26,7 +26,9 @@
     "static/media/Logo_v2_transparent.png": "/static/media/Logo_v2_transparent.72251d376d52a6d57450.png",
     "static/media/live27_04_2018.jpg": "/static/media/live27_04_2018.d59cdc6bb432f3b38554.jpg",
     "static/media/fondbody.png": "/static/media/fondbody.b245fee9ea400326a42c.png",
+    "static/media/deadfuck-promo-picture.jpeg": "/static/media/deadfuck-promo-picture.d8c9bc6eb590d12b6745.jpeg",
     "static/media/live15_03_2018.jpg": "/static/media/live15_03_2018.70b7bbad3e5648f47101.jpg",
+    "static/media/live23_05_2025.jpg": "/static/media/live23_05_2025.c370bd93b732dc7cb9ed.jpg",
     "static/media/live26_09_2020.jpeg": "/static/media/live26_09_2020.b46d159901c411a0c0e8.jpeg",
     "static/media/live25_10_2019.jpg": "/static/media/live25_10_2019.ea6406afceb72b1bc61e.jpg",
     "static/media/pochette-40x40.jpg": "/static/media/pochette-40x40.29290164b562126e68da.jpg",
@@ -50,6 +52,7 @@
     "static/media/live22_05_2018.jpg": "/static/media/live22_05_2018.83e0fd82e0b157b099e9.jpg",
     "static/media/deezer-rond..png": "/static/media/deezer-rond..9f88c3b1e0c8b3c05e87.png",
     "static/media/amazon-rond..png": "/static/media/amazon-rond..3dc88ab66eaec36ffb90.png",
+    "static/media/deadfuck-logo-black.png": "/static/media/deadfuck-logo-black.451837fd74b70b9aa994.png",
     "static/media/live04_05_2018.jpg": "/static/media/live04_05_2018.f2b2ff99e5c464c1641e.jpg",
     "static/media/Bandcamp-rond.png": "/static/media/Bandcamp-rond.243c91f21ab91baa93f6.png",
     "static/media/live18_09_2018.jpg": "/static/media/live18_09_2018.20aaecfb1ca574cce285.jpg",
@@ -63,12 +66,12 @@
     "static/media/live23_03_2024.jpg": "/static/media/live23_03_2024.e1d1377ec91d787f1da0.jpg",
     "static/media/grind-n-noizy.jpg": "/static/media/grind-n-noizy.62c71ea3ae026d3360e9.jpg",
     "index.html": "/index.html",
-    "main.c0601431.css.map": "/static/css/main.c0601431.css.map",
-    "main.f5f86f50.js.map": "/static/js/main.f5f86f50.js.map",
+    "main.69421e9b.css.map": "/static/css/main.69421e9b.css.map",
+    "main.1d2ff7e7.js.map": "/static/js/main.1d2ff7e7.js.map",
     "787.ae5b6e57.chunk.js.map": "/static/js/787.ae5b6e57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0601431.css",
-    "static/js/main.f5f86f50.js"
+    "static/css/main.69421e9b.css",
+    "static/js/main.1d2ff7e7.js"
   ]
 }
