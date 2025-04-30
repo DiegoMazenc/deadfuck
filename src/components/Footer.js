@@ -59,7 +59,7 @@ const Footer = () => {
             <div className="bottomfooter">
                 <img src={fbdg} alt="" />
                 <p>Website by Diégo Mazenc</p>
-                <p>©deadfuck, 2023 all rights reserved</p>
+                <p>©deadfuck, 2025 all rights reserved</p>
             </div>
 
         </div>

@@ -1,187 +1,206 @@
 /*=====BANNIERE=====*/
 
-.margintop{
-    width: 100%;
-    height: 50px;
-    background-color: rgb(33, 33, 33);;
+.margintop {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(33, 33, 33);
 }
 
-.banniere3{
-    background-image: url(../img/banniere_logo_2.0.jpg);
-    background-size: cover;
-    background-position:center;
-    width: 100%;
-
-
+.banniere3 {
+  background-image: url(../img/banniere_logo_2.0.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
 }
 
-.banniere3 img{
-    opacity: 0;
-    width: 60%;
-    margin: 0 20%;
+.banniere3 img {
+  opacity: 0;
+  width: 60%;
+  margin: 0 20%;
 }
 
 /*=====BIO=====*/
 
-.divbtn{
-    display: flex;
-    justify-content: center;
-    position: relative;
-    width: 100%;
-    height: 100px;
-}
-
 .techlink {
-    position: absolute;
-    transform: translate(-50%,50%);
-    bottom: 50%;
-    left: 50%;
-    text-decoration: none;
-    border-radius: 5px;
-    border: 1px solid #CBB878;
-    background: linear-gradient(180deg, #4F400D 0%, #342904 100%);
-    color: #FCEBAF;
-    text-align: center;
-    font-family: Koh Santepheap;
-    padding: 15px;
-    transition: 0.3s;
-
+  transform: translate(-50%, 50%);
+  bottom: 50%;
+  left: 50%;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 1px solid #cbb878;
+  background: linear-gradient(180deg, #4f400d 0%, #342904 100%);
+  color: #fcebaf;
+  text-align: center;
+  font-family: Koh Santepheap;
+  padding: 10px 15px;
+  transition: 0.3s;
 }
 
-.techlink:hover{
-    padding: 17px;
-    background: linear-gradient(180deg, #FCEBAF 0%, #CBB878 100%);
-    color: #4F400D;
-    border: #4F400D;
+.techlink:hover {
+  padding: 12px 17px;
+  background: linear-gradient(180deg, #fcebaf 0%, #cbb878 100%);
+  color: #4f400d;
+  border: #4f400d;
 }
 
-.bio{
-    text-align: center;
-    margin: 30px 10%;
-    background:linear-gradient(180deg, #3a372c 0%, #716d61 100%);
-    padding: 20px;
-    border-radius: 15px;
-    border: 1px solid rgb(219, 208, 150);
-    box-shadow: #e9deb8 0px 0px 8px;
-    transition: 0.3s;
+.bio {
+  text-align: center;
+  margin: 30px 10%;
+  background: linear-gradient(180deg, #3a372c 0%, #716d61 100%);
+  padding: 20px;
+  border-radius: 15px;
+  border: 1px solid rgb(219, 208, 150);
+  box-shadow: #e9deb8 0px 0px 8px;
+  transition: 0.3s;
 }
 
-.bio:hover{
-    box-shadow: #f0e9d2 0px 0px 15px;
+.bio:hover {
+  box-shadow: #f0e9d2 0px 0px 15px;
 }
 
-.bio h2{
-    color: rgb(212, 201, 134);
+.bio h2 {
+  color: rgb(212, 201, 134);
 }
 
-.bio p{
-    color: rgb(234, 233, 223);
-    line-height: 20px;
+.bio p {
+  color: rgb(234, 233, 223);
+  line-height: 20px;
 }
 
+.bio-buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+
+.bio-buttons button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border: none;
+  background-color: #222;
+  color: white;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+.flag {
+  width: 20px;
+  height: auto;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+.bio-buttons button:hover {
+  background-color: #555;
+}
+.downloadBtns {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px 25% 70px;
+}
 .motimportant {
-    color: rgb(209, 197, 129);
+  color: rgb(209, 197, 129);
 }
-
 
 /*=====DISCO=====*/
 
-.disco{
-    text-align: center;
-    color: aliceblue;
-    margin-top: 50px;
+.disco {
+  text-align: center;
+  color: aliceblue;
+  margin-top: 50px;
 }
 
-.discocards{
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 5%;
-    justify-content: space-evenly;
-    
+.discocards {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 5%;
+  justify-content: space-evenly;
 }
 
-
-
-.disco1{
-    width: 300px;
-    margin: 15px;
-    padding: 10px;
-    background:linear-gradient(180deg, #3a372c 0%, #716d61 100%);
-    text-align: center;
-    border-radius: 15px;
-    border: 1px solid rgb(175, 169, 137);
-    box-shadow: #e9deb8 0px 0px 8px;
-    transition: 0.3s;
-
+.disco1 {
+  width: 300px;
+  margin: 15px;
+  padding: 10px;
+  background: linear-gradient(180deg, #3a372c 0%, #716d61 100%);
+  text-align: center;
+  border-radius: 15px;
+  border: 1px solid rgb(175, 169, 137);
+  box-shadow: #e9deb8 0px 0px 8px;
+  transition: 0.3s;
 }
 
-.disco1 img{
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
+.disco1 img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
 
-h2{
-    color: rgb(212, 201, 134);
-    text-align: center;
-    margin-top: 40px;
-
+h2 {
+  color: rgb(212, 201, 134);
+  text-align: center;
+  margin-top: 40px;
 }
 
-.disco1:hover{
-    width: 310px;
-    box-shadow: #f0e9d2 0px 0px 15px;
+.disco1:hover {
+  width: 310px;
+  box-shadow: #f0e9d2 0px 0px 15px;
 }
 
 /*=====LIVES=====*/
 
-.live{
-    margin: 50px 0;
+.live {
+  margin: 50px 0;
 }
 
-.liveyear{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
+.liveyear {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 
-    justify-content: space-evenly;
+  justify-content: space-evenly;
 }
 
-.liveyear img{
-    width: 300px;
-    margin: 10px 3px;
-    height: auto;
-    border: 1px solid rgb(175, 169, 137);
-    box-shadow: #e9deb8 0px 0px 3px;
-    border-radius: 10px;
-    transition: 0.3s;
+.liveyear img {
+  width: 300px;
+  margin: 10px 3px;
+  height: auto;
+  border: 1px solid rgb(175, 169, 137);
+  box-shadow: #e9deb8 0px 0px 3px;
+  border-radius: 10px;
+  transition: 0.3s;
 }
 
-.liveyear img:hover{
-    /* width: 304px;
+.liveyear img:hover {
+  /* width: 304px;
     margin: 7px 0px; */
-    box-shadow: #f0e9d2 0px 0px 8px;
+  box-shadow: #f0e9d2 0px 0px 8px;
 }
 
-.live2{
-    display: flex;
-    flex-direction: column;
+.live2 {
+  display: flex;
+  flex-direction: column;
 }
 
-.live2 img{
-    height: 100%;
+.live2 img {
+  height: 100%;
 }
 
+@media screen and (max-width: 600px) {
+  .liveyear img {
+    width: 150px;
+  }
+  .downloadBtns {
+    display: block;
+    text-align: center;
+  }
 
-@media screen and (max-width:600px) {
-    .liveyear img{
-        width: 150px;
-    }
+  .divbtn{
+    margin: 25px 0;
+  }
 
-    /* .liveyear img:hover{
+
+  /* .liveyear img:hover{
         width: 155px;
        
         
     } */
-    
 }

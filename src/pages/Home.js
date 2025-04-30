@@ -48,36 +48,25 @@ const Home = () => {
 
                         <section className="tourdate">
                             <div className="localdate">
-                                <h4>sat, DEC 14, 2024</h4>
-                                <h5>Raymonde, Clermont-Ferrand, France</h5>
-                                <h4>With : Nevrosys, No Way Out</h4>
-                            </div>
-                            <div className="eventdate">
-                                <h4>PAF : 5€</h4>
-                                <a href="https://www.facebook.com/events/2121265754975883?locale=fr_FR" target="_blank">EVENT</a>
-                            </div>
-                        </section>
-
-                        <section className="tourdate">
-                            <div className="localdate">
-                                <h4>sat, JAN 04, 2025</h4>
-                                <h5>Rock'N'Eat, Lyon, France</h5>
-                                <h4>With : Asilian, StabWound, Upper Decker</h4>
+                                <h4>fri, MAY 23, 2025</h4>
+                                <h5>Rock Metal Camp Fest, France</h5>
+                                <h4>With : ONDFØDT, HELEVORN, MILLHAVEN, AS THE SUN FALLS, ... </h4>
                             </div>
                             <div className="eventdate">
                                 <h4>FREE</h4>
-                                <a href="https://www.facebook.com/events/8637389516375652" target="_blank">EVENT</a>
+                                <a href="https://www.facebook.com/events/1367261434262878?locale=fr_FR#" target="_blank">EVENT</a>
                             </div>
                         </section>
 
+
                         <section className="tourdate">
                             <div className="localdate">
-                                <h4>fri, MAY 23, 2025</h4>
-                                <h5>REVEALED SOON, France</h5>
-                                <h4>With : REVEALED SOON</h4>
+                                <h4>sat, JUN 14, 2025</h4>
+                                <h5>DemonBar, Outarville, France</h5>
+                                <h4>With : Reveal soon...</h4>
                             </div>
                             <div className="eventdate">
-                                <h4>------</h4>
+                                <h4>-----</h4>
                                 <a href="#" target="_blank">EVENT</a>
                             </div>
                         </section>
