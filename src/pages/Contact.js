@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import Formulaire from "../components/Formulaire";
 import logotrans from '../img/Logo_v2_transparent.png';
 import '../styles/Contact.css';

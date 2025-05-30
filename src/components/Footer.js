@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import '../styles/Footer.css';
 import bandcamprond from '../img/Bandcamp-rond.png';
 import youtuberond from '../img/youtube-rond.png';
@@ -60,7 +60,7 @@ const Footer = () => {
             <div className="bottomfooter">
                 <img src={fbdg} alt="" />
                 <p>Website by Diégo Mazenc</p>
-                <p>©deadfuck, 2023 all rights reserved</p>
+                <p>©deadfuck, 2025 all rights reserved</p>
             </div>
 
         </div>
