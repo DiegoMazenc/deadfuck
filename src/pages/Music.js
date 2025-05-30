@@ -1,3 +1,4 @@
+import React from 'react';
 import logotrans from '../img/Logo_v2_transparent.png';
 import pochettevc from '../img/pochette-40x40.jpg';
 import pochettecharlatan from '../img/pochette 3-3.jpg';

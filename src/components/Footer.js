@@ -1,3 +1,4 @@
+import React from 'react';
 import '../styles/Footer.css';
 import bandcamprond from '../img/Bandcamp-rond.png';
 import youtuberond from '../img/youtube-rond.png';

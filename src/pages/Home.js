@@ -1,3 +1,4 @@
+import React from 'react';
 import bannierevc from '../img/BanniereVC.jpg';
 import bannierevclogo from '../img/BanniereVClogo.png';
 import pochettevc from '../img/pochette-40x40.jpg';

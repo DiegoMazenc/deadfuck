@@ -1,4 +1,4 @@
-
+import React from 'react';
 import '../styles/Press.css';
 import pochettevc from '../img/pochette-40x40.jpg';
 import pochettecharlatan from '../img/pochette 3-3.jpg';
