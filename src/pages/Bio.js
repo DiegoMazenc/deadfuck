@@ -6,6 +6,7 @@ import pochettevc from "../img/pochette-40x40.jpg";
 import pochettecharlatan from "../img/pochette 3-3.jpg";
 import pochettehumanite from "../img/Pochette_humanité.jpg";
 import pochetteaffliction from "../img/Pochette Affliction.jpg";
+import pochettespecimen from "../img/Pochette_specimen.jpg";
 import live10_11_2017 from "../img/live/live10_11_2017.jpg";
 import live27_02_2018 from "../img/live/live27_02_2018.jpg";
 import live15_03_2018 from "../img/live/live15_03_2018.jpg";
@@ -257,6 +258,22 @@ const Bio = () => {
         <div className="disco">
           <h2>DISCOGRAPHY</h2>
           <div className="discocards">
+             <div className="disco1">
+              <img src={pochettespecimen} alt="" />
+              <h4>
+                Spécimen | <span className="motimportant">EP </span>
+              </h4>
+              <p>
+                <span className="motimportant">Année </span>: 2025
+              </p>
+              <p>
+                <span className="motimportant">Tracks</span> : 3
+              </p>
+              <p>
+                <span className="motimportant">Production</span> :
+                Auto-production
+              </p>
+            </div>
             <div className="disco1">
               <img src={pochettevc} alt="" />
               <h4>
