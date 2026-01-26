@@ -1,3 +1,4 @@
+import React from "react";
 import logotrans from "../img/Logo_v2_transparent.png";
 import promoPicture from "../img/deadfuck-promo-picture.jpeg";
 import logoBlack from "../img/deadfuck-logo-black.png";
@@ -39,6 +40,7 @@ import Live19_10_2024 from "../img/live/live19_10_2024.jpg";
 import Live14_12_2024 from "../img/live/live14_12_2024.jpg";
 import Live04_01_2025 from "../img/live/live04_01_2025.jpg";
 import Live23_05_2025 from "../img/live/live23_05_2025.jpg";
+import Live14_06_2025 from "../img/live/live14_06_2025.jpg";
 import frFlag from "../img/0188.png";
 import gbFlag from "../img/0189.png";
 import TechSheet from "../img/Rider-TechSheet-DEADFUCK2025.pdf";
@@ -72,9 +74,9 @@ const Bio = () => {
           accorde à nos corps.
         </p>
         <p>
-          Depuis ses débuts, le groupe a sorti deux EPs (
+          Depuis ses débuts, le groupe a sorti trois EPs (
           <span className="motimportant">Affliction</span> en 2018,{" "}
-          <span className="motimportant">Charlatan</span> en 2022) et deux
+          <span className="motimportant">Charlatan</span> en 2022 et <span className="motimportant">Spécimen</span> en 2025) et deux
           albums (<span className="motimportant">#Humanité</span> en 2020 et
           <span className="motimportant"> Valeur Chair</span> en 2023). Ce
           dernier marque un tournant important, soutenu par la signature du
@@ -124,7 +126,7 @@ const Bio = () => {
         <p>
           Since their formation, the band has released two EPs (
           <span className="motimportant">Affliction</span> in 2018,{" "}
-          <span className="motimportant">Charlatan</span> in 2022) and two
+          <span className="motimportant">Charlatan</span> in 2022 and <span className="motimportant">Spécimen</span> in 2025) and two
           albums <span className="motimportant">(#Humanité</span> in 2020 and{" "}
           <span className="motimportant">Valeur Chair</span> in 2023). The
           latter marks a significant milestone, with the band signing to the{" "}
@@ -332,6 +334,9 @@ const Bio = () => {
           <h2>LIVES</h2>
           <div className="livehistory">
             <div className="liveyear">
+              <div className="live2">
+                <img src={Live14_06_2025} alt="" />
+              </div>
               <img src={Live23_05_2025} alt="" />
               <img src={Live04_01_2025} alt="" />
               <img src={Live14_12_2024} alt="" />

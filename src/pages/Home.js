@@ -1,5 +1,6 @@
-import bannierevc from '../img/BanniereVC.jpg';
-import bannierevclogo from '../img/BanniereVClogo.png';
+import React from "react";
+import bannierespecimen from '../img/banniereSpecimen.png';
+import bannierespecimenlogo from '../img/banniereSpecimenLogo.png';
 import pochettevc from '../img/pochette-40x40.jpg';
 import promovc from '../img/PromoVC.png';
 import '../styles/Home.css';
@@ -9,8 +10,8 @@ const Home = () => {
         <div>
                 <section>
                     <div className="banniere">
-                        <img src={bannierevc} alt="" />
-                        <img src={bannierevclogo} alt="" className="bannierelogo" />
+                        <img src={bannierespecimen} alt="" />
+                        <img src={bannierespecimenlogo} alt="" className="bannierelogo" />
                     </div>
                 </section>
 
@@ -18,13 +19,13 @@ const Home = () => {
                     <div className="promo">
                         <img src={pochettevc} alt="" />
                         <div className="promotext">
-                            <h3>New Album</h3>
+                            <h3>Our last Album</h3>
+                            <br/>
                             <h2>VALEUR CHAIR</h2>
-                            <p>Coming out September 10, 2023</p>
                             <div className="promovideo">
                                 <iframe src="https://www.youtube.com/embed/6UkNzZkqG7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             </div>
-                            <a href="https://deadfuck.bandcamp.com/album/valeur-chair" target="_blank" className="preorder"> Pre-order Now</a>
+                            <a href="https://deadfuck.bandcamp.com/album/valeur-chair" target="_blank" className="preorder">Order Now</a>
                         </div>
                     </div>
                 </article>
@@ -34,8 +35,9 @@ const Home = () => {
                         <img src={promovc} alt="" />
                         <div className="merchtext">
                             <hr />
-                            <h3>New merch</h3>
-                            <h2>Coming soon !</h2>
+                            <h3>Vinyls, Digipack and T-shirt </h3>
+                            <h2>AVAILABLE IN OUR SHOP  </h2>
+
                             <hr />
                         </div>
                         <a href="https://deadfuck.bandcamp.com/merch" className="preorder"  target="_blank"> Merch</a>
@@ -48,26 +50,26 @@ const Home = () => {
 
                         <section className="tourdate">
                             <div className="localdate">
-                                <h4>fri, MAY 23, 2025</h4>
-                                <h5>Rock Metal Camp Fest, France</h5>
-                                <h4>With : ONDFØDT, HELEVORN, MILLHAVEN, AS THE SUN FALLS, ... </h4>
+                                <h4>fri, MAY 01, 2026</h4>
+                                <h5>Rock n Eat, France</h5>
+                                <h4>With : Reveal soon... </h4>
                             </div>
                             <div className="eventdate">
                                 <h4>FREE</h4>
-                                <a href="https://www.facebook.com/events/1367261434262878?locale=fr_FR#" target="_blank">EVENT</a>
+                                <a href="#" target="_blank">EVENT</a>
                             </div>
                         </section>
 
 
                         <section className="tourdate">
                             <div className="localdate">
-                                <h4>sat, JUN 14, 2025</h4>
-                                <h5>DemonBar, Outarville, France</h5>
-                                <h4>With : Reveal soon...</h4>
+                                <h4>-----</h4>
+                                <h5>-----</h5>
+                                <h4>-----</h4>
                             </div>
                             <div className="eventdate">
                                 <h4>-----</h4>
-                                <a href="#" target="_blank">EVENT</a>
+                                <a href="#">----</a>
                             </div>
                         </section>
 

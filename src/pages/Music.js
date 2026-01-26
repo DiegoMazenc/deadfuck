@@ -1,6 +1,8 @@
+import React from "react";
 import logotrans from '../img/Logo_v2_transparent.png';
 import pochettevc from '../img/pochette-40x40.jpg';
 import pochettecharlatan from '../img/pochette 3-3.jpg';
+import pochettespecimen from '../img/Pochette_specimen.jpg';
 import pochettehumanite from '../img/Pochette_humanité.jpg';
 import pochetteaffliction from '../img/Pochette Affliction.jpg';
 import bandcamprond from '../img/Bandcamp-rond.png';
@@ -21,7 +23,35 @@ const Music = () => {
                 </div>
             </section>
 
+    <article>
+                <div className="article1">
+                    <div className="article1top article2top">
+                        <div className="article1toptext">
+                            <h3>SPÉCIMEN</h3>
+                            <p>EP | Released December 01st 2025</p>
+                            <hr />
+                            <div className="article1liens">
+                                <a href="https://deadfuck.bandcamp.com/album/sp-cimen" target="_blank"><img src={bandcamprond} alt="" /></a>
+                                <a href="https://youtube.com/playlist?list=PLej_KM65LLo6hiiyBlD-BSHdWwi_54GR_&si=t6ml4ATeKdQc78cs" target="_blank"><img src={youtuberond} alt="" /></a>
+                                <a href="https://open.spotify.com/intl-fr/album/11TEcVcRUXd4Zwj0Spx0Iq" target="_blank"><img src={spotifyrond} alt="" /></a>
+                                <a href="https://www.deezer.com/fr/album/867788202" target="_blank"><img src={deezerrond} alt="" /></a>
+                                <a href="https://music.apple.com/us/album/sp%C3%A9cimen-single/1857628977" target="_blank"><img src={itunesrond} alt="" /></a>
+                                <a href="https://www.amazon.fr/music/player/albums/B0G4N1FJCR" target="_blank"><img src={amazonrond} alt="" /></a>
 
+                            </div>
+                        </div>
+                        <img src={pochettespecimen} alt="" />
+                    </div>
+                    <div className="article1bottom article2top">
+                        <div className="lienspotify">
+                            <iframe src="https://open.spotify.com/embed/album/11TEcVcRUXd4Zwj0Spx0Iq?utm_source=generator"  width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                        </div>
+                        <div className="lienclip">
+                            <iframe width="560" height="352" src="https://www.youtube.com/embed/Eu1TcQ2BU4E?si=S3SRA8kbHQRQvz1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </article>
             
         <article>
         <div className="article1">
